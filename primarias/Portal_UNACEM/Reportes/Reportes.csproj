@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A45A98D0-EF8A-4B7F-B014-8F90BA7C1837}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Reportes</RootNamespace>
+    <AssemblyName>Reportes</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="comprobanteCR1_0_0.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>comprobanteCR1_0_0.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="comprobanteFactura1_0_0.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>comprobanteFactura1_0_0.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="comprobanteNC1_0_0.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>comprobanteNC1_0_0.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Credito\NotaCredito.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NotaCredito.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Credito\rptCreditoCliente.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptCreditoCliente.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Credito\rptCreditoRegional.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptCreditoRegional.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Credito\rptCreditoVendedor.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptCreditoVendedor.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dsCodigoBarras.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsCodigoBarras.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="factura2_00.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>factura2_00.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="RepContadoNC.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RepContadoNC.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RepGeneral.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RepGeneral.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RepGeneralSC.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RepGeneralSC.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RepGeneralSC1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RepGeneralSC1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RepGeneralSC_Ret.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RepGeneralSC_Ret.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RepGeneralSC_Ret1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RepGeneralSC_Ret1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes.cs">
+      <DependentUpon>Reportes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reportes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="rptOrdenCompra.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptOrdenCompra.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptOrdenCompra2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptOrdenCompra2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="xds\1_0_0\comproxsdCR1_0_0.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>comproxsdCR1_0_0.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="xds\1_0_0\comproxsdFactura1_0_0.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>comproxsdFactura1_0_0.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="xds\1_0_0\comproxsdGuiaRemision1_0_0.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>comproxsdGuiaRemision1_0_0.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="xds\1_0_0\comproxsdNC1_0_0.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>comproxsdNC1_0_0.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="xds\1_0_0\comproxsdND1_0_0.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>comproxsdND1_0_0.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="dsCodigoBarras.xsc">
+      <DependentUpon>dsCodigoBarras.xsd</DependentUpon>
+    </None>
+    <None Include="dsCodigoBarras.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsCodigoBarras.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsCodigoBarras.xss">
+      <DependentUpon>dsCodigoBarras.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes.xsc">
+      <DependentUpon>Reportes.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Reportes.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes.xss">
+      <DependentUpon>Reportes.xsd</DependentUpon>
+    </None>
+    <None Include="SRI\1_0_0\comprobanteRetencion1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SRI\1_0_0\factura1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SRI\1_0_0\guiaRemision1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SRI\1_0_0\notaCredito1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SRI\1_0_0\notaDebito1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xds\1_0_0\comproxsdCR1_0_0.xsc">
+      <DependentUpon>comproxsdCR1_0_0.xsd</DependentUpon>
+    </None>
+    <None Include="xds\1_0_0\comproxsdCR1_0_0.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>comproxsdCR1_0_0.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xds\1_0_0\comproxsdCR1_0_0.xss">
+      <DependentUpon>comproxsdCR1_0_0.xsd</DependentUpon>
+    </None>
+    <None Include="xds\1_0_0\comproxsdFactura1_0_0.xsc">
+      <DependentUpon>comproxsdFactura1_0_0.xsd</DependentUpon>
+    </None>
+    <None Include="xds\1_0_0\comproxsdFactura1_0_0.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>comproxsdFactura1_0_0.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xds\1_0_0\comproxsdFactura1_0_0.xss">
+      <DependentUpon>comproxsdFactura1_0_0.xsd</DependentUpon>
+    </None>
+    <None Include="xds\1_0_0\comproxsdGuiaRemision1_0_0.xsc">
+      <DependentUpon>comproxsdGuiaRemision1_0_0.xsd</DependentUpon>
+    </None>
+    <None Include="xds\1_0_0\comproxsdGuiaRemision1_0_0.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>comproxsdGuiaRemision1_0_0.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xds\1_0_0\comproxsdGuiaRemision1_0_0.xss">
+      <DependentUpon>comproxsdGuiaRemision1_0_0.xsd</DependentUpon>
+    </None>
+    <None Include="xds\1_0_0\comproxsdNC1_0_0.xsc">
+      <DependentUpon>comproxsdNC1_0_0.xsd</DependentUpon>
+    </None>
+    <None Include="xds\1_0_0\comproxsdNC1_0_0.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>comproxsdNC1_0_0.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xds\1_0_0\comproxsdNC1_0_0.xss">
+      <DependentUpon>comproxsdNC1_0_0.xsd</DependentUpon>
+    </None>
+    <None Include="xds\1_0_0\comproxsdND1_0_0.xsc">
+      <DependentUpon>comproxsdND1_0_0.xsd</DependentUpon>
+    </None>
+    <None Include="xds\1_0_0\comproxsdND1_0_0.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>comproxsdND1_0_0.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xds\1_0_0\comproxsdND1_0_0.xss">
+      <DependentUpon>comproxsdND1_0_0.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="comprobanteCR1_0_0.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>comprobanteCR1_0_0.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="comprobanteFactura1_0_0.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>comprobanteFactura1_0_0.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="comprobanteNC1_0_0.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>comprobanteNC1_0_0.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Credito\NotaCredito.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NotaCredito.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Credito\rptCreditoCliente.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptCreditoCliente.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Credito\rptCreditoRegional.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptCreditoRegional.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Credito\rptCreditoVendedor.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptCreditoVendedor.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="factura2_00.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>factura2_00.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepContadoNC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RepContadoNC.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepGeneral.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RepGeneral.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepGeneralSC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RepGeneralSC.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepGeneralSC1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RepGeneralSC1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepGeneralSC_Ret.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RepGeneralSC_Ret.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepGeneralSC_Ret1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RepGeneralSC_Ret1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptOrdenCompra.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptOrdenCompra.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptOrdenCompra2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptOrdenCompra2.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SRI\1_0_0\comprobanteRetencion.xml" />
+    <Content Include="SRI\1_0_0\factura.xml" />
+    <Content Include="SRI\1_0_0\guiaderemision.xml" />
+    <Content Include="SRI\1_0_0\notacredito.xml" />
+    <Content Include="SRI\1_0_0\notadebito.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="SRI\1_1_0\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

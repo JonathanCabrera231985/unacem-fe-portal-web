@@ -1,0 +1,285 @@
+C:\Users\Ismael\Documents\Visual Studio 2008\Projects\Atleticos.v.1.0\Atleticos\Datos\Datos\bin\Debug\Datos.dll
+C:\Users\Ismael\Documents\Visual Studio 2008\Projects\Atleticos.v.1.0\Atleticos\Datos\Datos\bin\Debug\Datos.pdb
+C:\Users\Ismael\Documents\Visual Studio 2008\Projects\Atleticos.v.1.0\Atleticos\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ismael\Documents\Visual Studio 2008\Projects\Atleticos.v.1.0\Atleticos\Datos\Datos\obj\Debug\Datos.dll
+C:\Users\Ismael\Documents\Visual Studio 2008\Projects\Atleticos.v.1.0\Atleticos\Datos\Datos\obj\Debug\Datos.pdb
+C:\Users\monty\Documents\Visual Studio 2010\Projects\Atleticos 1.0\Source\Atleticos\Datos\Datos\bin\Debug\Datos.dll
+C:\Users\monty\Documents\Visual Studio 2010\Projects\Atleticos 1.0\Source\Atleticos\Datos\Datos\bin\Debug\Datos.pdb
+C:\Users\monty\Documents\Visual Studio 2010\Projects\Atleticos 1.0\Source\Atleticos\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monty\Documents\Visual Studio 2010\Projects\Atleticos 1.0\Source\Atleticos\Datos\Datos\obj\Debug\Datos.dll
+C:\Users\monty\Documents\Visual Studio 2010\Projects\Atleticos 1.0\Source\Atleticos\Datos\Datos\obj\Debug\Datos.pdb
+C:\Users\ismael\Documents\Visual Studio 2010\Projects\GeneracionXMLSQL\Datos\Datos\bin\Debug\Datos.dll
+C:\Users\ismael\Documents\Visual Studio 2010\Projects\GeneracionXMLSQL\Datos\Datos\bin\Debug\Datos.pdb
+C:\Users\ismael\Documents\Visual Studio 2010\Projects\GeneracionXMLSQL\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ismael\Documents\Visual Studio 2010\Projects\GeneracionXMLSQL\Datos\Datos\obj\Debug\Datos.dll
+C:\Users\ismael\Documents\Visual Studio 2010\Projects\GeneracionXMLSQL\Datos\Datos\obj\Debug\Datos.pdb
+C:\Users\ismael\Documents\Visual Studio 2010\Projects\GeneracionXMLSQL1\GeneracionXMLSQL\Datos\Datos\bin\Debug\Datos.dll
+C:\Users\ismael\Documents\Visual Studio 2010\Projects\GeneracionXMLSQL1\GeneracionXMLSQL\Datos\Datos\bin\Debug\Datos.pdb
+C:\Users\ismael\Documents\Visual Studio 2010\Projects\GeneracionXMLSQL1\GeneracionXMLSQL\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ismael\Documents\Visual Studio 2010\Projects\GeneracionXMLSQL1\GeneracionXMLSQL\Datos\Datos\obj\Debug\Datos.dll
+C:\Users\ismael\Documents\Visual Studio 2010\Projects\GeneracionXMLSQL1\GeneracionXMLSQL\Datos\Datos\obj\Debug\Datos.pdb
+T:\GeneracionXMLSQL1\GeneracionXMLSQL\Datos\Datos\bin\Debug\Datos.dll
+T:\GeneracionXMLSQL1\GeneracionXMLSQL\Datos\Datos\bin\Debug\Datos.pdb
+T:\GeneracionXMLSQL1\GeneracionXMLSQL\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+T:\GeneracionXMLSQL1\GeneracionXMLSQL\Datos\Datos\obj\Debug\Datos.dll
+T:\GeneracionXMLSQL1\GeneracionXMLSQL\Datos\Datos\obj\Debug\Datos.pdb
+C:\Users\ismael\Documents\USB Facturacion\GeneracionXMLSQL1\GeneracionXMLSQL\Datos\Datos\bin\Debug\Datos.dll
+C:\Users\ismael\Documents\USB Facturacion\GeneracionXMLSQL1\GeneracionXMLSQL\Datos\Datos\bin\Debug\Datos.pdb
+C:\Users\ismael\Documents\USB Facturacion\GeneracionXMLSQL1\GeneracionXMLSQL\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ismael\Documents\USB Facturacion\GeneracionXMLSQL1\GeneracionXMLSQL\Datos\Datos\obj\Debug\Datos.dll
+C:\Users\ismael\Documents\USB Facturacion\GeneracionXMLSQL1\GeneracionXMLSQL\Datos\Datos\obj\Debug\Datos.pdb
+C:\Users\infactmex\Documents\GeneracionXMLSQL\Datos\Datos\bin\Debug\Datos.dll
+C:\Users\infactmex\Documents\GeneracionXMLSQL\Datos\Datos\bin\Debug\Datos.pdb
+C:\Users\infactmex\Documents\GeneracionXMLSQL\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\infactmex\Documents\GeneracionXMLSQL\Datos\Datos\obj\Debug\Datos.dll
+C:\Users\infactmex\Documents\GeneracionXMLSQL\Datos\Datos\obj\Debug\Datos.pdb
+E:\GeneracionXMLSQL\Datos\Datos\bin\Debug\Datos.dll
+E:\GeneracionXMLSQL\Datos\Datos\bin\Debug\Datos.pdb
+E:\GeneracionXMLSQL\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+E:\GeneracionXMLSQL\Datos\Datos\obj\Debug\Datos.dll
+E:\GeneracionXMLSQL\Datos\Datos\obj\Debug\Datos.pdb
+C:\InfacMex\GeneracionXMLSQLcadenaOrig\Datos\Datos\bin\Debug\Datos.dll
+C:\InfacMex\GeneracionXMLSQLcadenaOrig\Datos\Datos\bin\Debug\Datos.pdb
+C:\InfacMex\GeneracionXMLSQLcadenaOrig\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\InfacMex\GeneracionXMLSQLcadenaOrig\Datos\Datos\obj\Debug\Datos.dll
+C:\InfacMex\GeneracionXMLSQLcadenaOrig\Datos\Datos\obj\Debug\Datos.pdb
+C:\CodigosFuenteFActuracionElectronica\GeneracionXMLSQLcadenaOrig (3)\GeneracionXMLSQLcadenaOrig\Datos\Datos\bin\Debug\Datos.dll
+C:\CodigosFuenteFActuracionElectronica\GeneracionXMLSQLcadenaOrig (3)\GeneracionXMLSQLcadenaOrig\Datos\Datos\bin\Debug\Datos.pdb
+C:\CodigosFuenteFActuracionElectronica\GeneracionXMLSQLcadenaOrig (3)\GeneracionXMLSQLcadenaOrig\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\CodigosFuenteFActuracionElectronica\GeneracionXMLSQLcadenaOrig (3)\GeneracionXMLSQLcadenaOrig\Datos\Datos\obj\Debug\Datos.dll
+C:\CodigosFuenteFActuracionElectronica\GeneracionXMLSQLcadenaOrig (3)\GeneracionXMLSQLcadenaOrig\Datos\Datos\obj\Debug\Datos.pdb
+C:\Documents and Settings\Administrador\Escritorio\GeneracionXMLSQLcadenaOrig\Datos\Datos\bin\Debug\Datos.dll
+C:\Documents and Settings\Administrador\Escritorio\GeneracionXMLSQLcadenaOrig\Datos\Datos\bin\Debug\Datos.pdb
+C:\Documents and Settings\Administrador\Escritorio\GeneracionXMLSQLcadenaOrig\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\GeneracionXMLSQLcadenaOrig\Datos\Datos\obj\Debug\Datos.dll
+C:\Documents and Settings\Administrador\Escritorio\GeneracionXMLSQLcadenaOrig\Datos\Datos\obj\Debug\Datos.pdb
+C:\Users\infactmex\Documents\Infactmex\proyectos\GeneracionXMLSQLcadenaOrig\Datos\Datos\bin\Debug\Datos.dll
+C:\Users\infactmex\Documents\Infactmex\proyectos\GeneracionXMLSQLcadenaOrig\Datos\Datos\bin\Debug\Datos.pdb
+C:\Users\infactmex\Documents\Infactmex\proyectos\GeneracionXMLSQLcadenaOrig\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\infactmex\Documents\Infactmex\proyectos\GeneracionXMLSQLcadenaOrig\Datos\Datos\obj\Debug\Datos.dll
+C:\Users\infactmex\Documents\Infactmex\proyectos\GeneracionXMLSQLcadenaOrig\Datos\Datos\obj\Debug\Datos.pdb
+C:\FActuracionElectrinica\GeneracionXMLSQLcadenaOrig\Datos\Datos\bin\Debug\Datos.dll
+C:\FActuracionElectrinica\GeneracionXMLSQLcadenaOrig\Datos\Datos\bin\Debug\Datos.pdb
+C:\FActuracionElectrinica\GeneracionXMLSQLcadenaOrig\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\FActuracionElectrinica\GeneracionXMLSQLcadenaOrig\Datos\Datos\obj\Debug\Datos.dll
+C:\FActuracionElectrinica\GeneracionXMLSQLcadenaOrig\Datos\Datos\obj\Debug\Datos.pdb
+D:\server\FacturacionElectronica\GeneracionXMLSQLcadenaOrig\Datos\bin\Debug\Datos.dll
+D:\server\FacturacionElectronica\GeneracionXMLSQLcadenaOrig\Datos\bin\Debug\Datos.pdb
+D:\server\FacturacionElectronica\GeneracionXMLSQLcadenaOrig\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\FacturacionElectronica\GeneracionXMLSQLcadenaOrig\Datos\obj\Debug\Datos.dll
+D:\server\FacturacionElectronica\GeneracionXMLSQLcadenaOrig\Datos\obj\Debug\Datos.pdb
+D:\server\DataExpress\DataExpress\Datos\bin\Debug\Datos.dll
+D:\server\DataExpress\DataExpress\Datos\bin\Debug\Datos.pdb
+D:\server\DataExpress\DataExpress\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\DataExpress\DataExpress\Datos\obj\Debug\Datos.dll
+D:\server\DataExpress\DataExpress\Datos\obj\Debug\Datos.pdb
+D:\server\DataExpress\MultiDataExpress\Datos\bin\Debug\Datos.dll
+D:\server\DataExpress\MultiDataExpress\Datos\bin\Debug\Datos.pdb
+D:\server\DataExpress\MultiDataExpress\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\DataExpress\MultiDataExpress\Datos\obj\Debug\Datos.dll
+D:\server\DataExpress\MultiDataExpress\Datos\obj\Debug\Datos.pdb
+D:\server\DE\Datos\bin\Debug\Datos.dll
+D:\server\DE\Datos\bin\Debug\Datos.pdb
+D:\server\DE\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\DE\Datos\obj\Debug\Datos.dll
+D:\server\DE\Datos\obj\Debug\Datos.pdb
+D:\server\SistemasFacturacion\DataJuan\Datos\bin\Debug\Datos.dll
+D:\server\SistemasFacturacion\DataJuan\Datos\bin\Debug\Datos.pdb
+D:\server\SistemasFacturacion\DataJuan\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\SistemasFacturacion\DataJuan\Datos\obj\Debug\Datos.dll
+D:\server\SistemasFacturacion\DataJuan\Datos\obj\Debug\Datos.pdb
+D:\server\SistemasFacturacion\DataRacel\Datos\bin\Debug\Datos.dll
+D:\server\SistemasFacturacion\DataRacel\Datos\bin\Debug\Datos.pdb
+D:\server\SistemasFacturacion\DataRacel\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\SistemasFacturacion\DataRacel\Datos\obj\Debug\Datos.dll
+D:\server\SistemasFacturacion\DataRacel\Datos\obj\Debug\Datos.pdb
+D:\DataExpress\RACEL\DataRace l v2.0\Datos\bin\Debug\Datos.dll
+D:\DataExpress\RACEL\DataRace l v2.0\Datos\bin\Debug\Datos.pdb
+D:\DataExpress\RACEL\DataRace l v2.0\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\RACEL\DataRace l v2.0\Datos\obj\Debug\Datos.dll
+D:\DataExpress\RACEL\DataRace l v2.0\Datos\obj\Debug\Datos.pdb
+D:\server\SistemasFacturacion\DataSchindler\DataSchindler\Datos\bin\Debug\Datos.dll
+D:\server\SistemasFacturacion\DataSchindler\DataSchindler\Datos\bin\Debug\Datos.pdb
+D:\server\SistemasFacturacion\DataSchindler\DataSchindler\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\SistemasFacturacion\DataSchindler\DataSchindler\Datos\obj\Debug\Datos.dll
+D:\server\SistemasFacturacion\DataSchindler\DataSchindler\Datos\obj\Debug\Datos.pdb
+D:\DataExpress\ELEVADORES SCHINDLER\DataSchindler\Datos\bin\Debug\Datos.dll
+D:\DataExpress\ELEVADORES SCHINDLER\DataSchindler\Datos\bin\Debug\Datos.pdb
+D:\DataExpress\ELEVADORES SCHINDLER\DataSchindler\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\ELEVADORES SCHINDLER\DataSchindler\Datos\obj\Debug\Datos.dll
+D:\DataExpress\ELEVADORES SCHINDLER\DataSchindler\Datos\obj\Debug\Datos.pdb
+D:\server\SistemasFacturacion\DataSchindlerWebUnific\Datos\bin\Debug\Datos.dll
+D:\server\SistemasFacturacion\DataSchindlerWebUnific\Datos\bin\Debug\Datos.pdb
+D:\server\SistemasFacturacion\DataSchindlerWebUnific\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\SistemasFacturacion\DataSchindlerWebUnific\Datos\obj\Debug\Datos.dll
+D:\server\SistemasFacturacion\DataSchindlerWebUnific\Datos\obj\Debug\Datos.pdb
+D:\server\SistemasFacturacion\Symrise\DataSymriseWebUnific\Datos\bin\Debug\Datos.dll
+D:\server\SistemasFacturacion\Symrise\DataSymriseWebUnific\Datos\bin\Debug\Datos.pdb
+D:\server\SistemasFacturacion\Symrise\DataSymriseWebUnific\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\SistemasFacturacion\Symrise\DataSymriseWebUnific\Datos\obj\Debug\Datos.dll
+D:\server\SistemasFacturacion\Symrise\DataSymriseWebUnific\Datos\obj\Debug\Datos.pdb
+D:\server\SistemasFacturacion\DataBDI\DataBDIWeb\Datos\bin\Debug\Datos.dll
+D:\server\SistemasFacturacion\DataBDI\DataBDIWeb\Datos\bin\Debug\Datos.pdb
+D:\server\SistemasFacturacion\DataBDI\DataBDIWeb\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\SistemasFacturacion\DataBDI\DataBDIWeb\Datos\obj\Debug\Datos.dll
+D:\server\SistemasFacturacion\DataBDI\DataBDIWeb\Datos\obj\Debug\Datos.pdb
+D:\server\SistemasFacturacion 1.0\DataBDI\DataBDIWeb\Datos\bin\Debug\Datos.dll
+D:\server\SistemasFacturacion 1.0\DataBDI\DataBDIWeb\Datos\bin\Debug\Datos.pdb
+D:\server\SistemasFacturacion 1.0\DataBDI\DataBDIWeb\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\SistemasFacturacion 1.0\DataBDI\DataBDIWeb\Datos\obj\Debug\Datos.dll
+D:\server\SistemasFacturacion 1.0\DataBDI\DataBDIWeb\Datos\obj\Debug\Datos.pdb
+E:\DataExpress\dataHerbalife\DataHerbalifeWeb\Datos\bin\Debug\Datos.dll
+E:\DataExpress\dataHerbalife\DataHerbalifeWeb\Datos\bin\Debug\Datos.pdb
+E:\DataExpress\dataHerbalife\DataHerbalifeWeb\Datos\obj\Debug\ResolveAssemblyReference.cache
+E:\DataExpress\dataHerbalife\DataHerbalifeWeb\Datos\obj\Debug\Datos.dll
+E:\DataExpress\dataHerbalife\DataHerbalifeWeb\Datos\obj\Debug\Datos.pdb
+D:\server\herbalife\DataHerbalifeWeb\Datos\bin\Debug\Datos.dll
+D:\server\herbalife\DataHerbalifeWeb\Datos\bin\Debug\Datos.pdb
+D:\server\herbalife\DataHerbalifeWeb\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\herbalife\DataHerbalifeWeb\Datos\obj\Debug\Datos.dll
+D:\server\herbalife\DataHerbalifeWeb\Datos\obj\Debug\Datos.pdb
+D:\server\Ecuador\DataHerbalifeWeb\Datos\bin\Debug\Datos.dll
+D:\server\Ecuador\DataHerbalifeWeb\Datos\bin\Debug\Datos.pdb
+D:\server\Ecuador\DataHerbalifeWeb\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\Ecuador\DataHerbalifeWeb\Datos\obj\Debug\Datos.dll
+D:\server\Ecuador\DataHerbalifeWeb\Datos\obj\Debug\Datos.pdb
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\DataEcuadorWeb\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+D:\server\Ecuador\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+D:\server\Ecuador\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+D:\server\Ecuador\DataEcuadorWeb\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\Ecuador\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+D:\server\Ecuador\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\DataExpress\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\DataExpress\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\DataExpress\DataEcuadorWeb\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\DataExpress\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\DataExpress\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\Transoceanica\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\Transoceanica\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\Transoceanica\DataEcuadorWeb\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Transoceanica\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\Transoceanica\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+G:\RespaldoAngelo\Angelo_trabajos\Transoceanica\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+G:\RespaldoAngelo\Angelo_trabajos\Transoceanica\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+G:\RespaldoAngelo\Angelo_trabajos\Transoceanica\DataEcuadorWeb\Datos\obj\Debug\ResolveAssemblyReference.cache
+G:\RespaldoAngelo\Angelo_trabajos\Transoceanica\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+G:\RespaldoAngelo\Angelo_trabajos\Transoceanica\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\Proyecto_Ruben\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\Proyecto_Ruben\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\Proyecto_Ruben\DataEcuadorWeb\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Proyecto_Ruben\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\Proyecto_Ruben\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\bin\Debug\Datos.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\bin\Debug\Datos.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Datos\obj\Debug\Datos.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\Datos\bin\Debug\Datos.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\Datos\bin\Debug\Datos.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\Datos\obj\Debug\Datos.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\Datos\obj\Debug\Datos.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Datos\bin\Debug\Datos.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Datos\bin\Debug\Datos.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Datos\bin\Debug\clibLogger.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Datos\bin\Debug\stdole.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Datos\bin\Debug\clibLogger.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Datos\obj\Debug\Datos.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Datos\obj\Debug\Datos.pdb

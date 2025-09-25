@@ -1,0 +1,6 @@
+@swConsultaDoc.Api_HostAddress = http://localhost:5216
+
+GET {{swConsultaDoc.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,936 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5260D9BC-B3D6-43B3-9F09-218BBF075745}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataExpressWeb</RootNamespace>
+    <AssemblyName>DataExpressWeb</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <Use64BitIISExpress />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=4.1.50927.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Design">
+      <HintPath>..\..\..\..\..\..\..\Pases\library\Unacem\CrystalDecisions.CrystalReports.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.TemplateEngine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Viewing.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.ClientDoc, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommLayer, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommonControls, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommonObjectModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.Controllers, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CubeDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.DataDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.DataSetConversion, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportAppServer.ObjectFactory, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.Prompting, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.ReportDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.XmlSerialize, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="GenCode128, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\GenCode128.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\..\..\Pases\library\Unacem\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms">
+      <HintPath>..\..\..\..\..\..\..\Pases\library\Unacem\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="adminstracion\Default.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="adminstracion\empresas\agregarEmpresa.aspx" />
+    <Content Include="adminstracion\empresas\Empresas.aspx" />
+    <Content Include="adminstracion\empresas\PopConfigEmpresa.aspx" />
+    <Content Include="adminstracion\roles\Default.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="adminstracion\roles\NuevoRolDinamicos.aspx" />
+    <Content Include="adminstracion\roles\RolDinamico.aspx" />
+    <Content Include="adminstracion\sesiones\Default.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="adminstracion\sucursales\Default.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="adminstracion\sucursales\pruebaGrid.aspx" />
+    <Content Include="adminstracion\usuarios\agregar_usuario.aspx" />
+    <Content Include="adminstracion\usuarios\clientes.aspx" />
+    <Content Include="adminstracion\usuarios\Default.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="adminstracion\usuarios\eliminar_usuario.aspx" />
+    <Content Include="adminstracion\usuarios\empleados.aspx" />
+    <Content Include="adminstracion\usuarios\modificar_usuario.aspx" />
+    <Content Include="adminstracion\roles\crear_rol.aspx" />
+    <Content Include="adminstracion\roles\eliminarRol.aspx" />
+    <Content Include="adminstracion\roles\modificar_roles.aspx" />
+    <Content Include="adminstracion\roles\roles.aspx" />
+    <Content Include="adminstracion\sesiones\crear_sesion.aspx" />
+    <Content Include="adminstracion\sesiones\eliminarSesion.aspx" />
+    <Content Include="adminstracion\sesiones\modificar_sesion.aspx" />
+    <Content Include="adminstracion\sesiones\sesiones.aspx" />
+    <Content Include="adminstracion\sucursales\agregarSucursal.aspx" />
+    <Content Include="adminstracion\sucursales\eliminarSucursal.aspx" />
+    <Content Include="adminstracion\sucursales\modificarSucursal.aspx" />
+    <Content Include="adminstracion\sucursales\sucursales.aspx" />
+    <Content Include="configuracion\Default.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="configuracion\email\Default.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="configuracion\email\modReglas.aspx" />
+    <Content Include="configuracion\email\reglas.aspx" />
+    <Content Include="configuracion\email\addReglas.aspx" />
+    <Content Include="configuracion\email\servermail.aspx" />
+    <Content Include="configuracion\log\Default.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="configuracion\log\logError.aspx" />
+    <Content Include="configuracion\log\log_usuario.aspx" />
+    <Content Include="configuracion\Mostrar.aspx" />
+    <Content Include="configuracion\CargaContigencia.aspx" />
+    <Content Include="construccion.aspx" />
+    <Content Include="ConsultaRecepcion.aspx" />
+    <Content Include="cuenta\Default.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DataFilter1.ascx" />
+    <Content Include="docus\Default.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ErrorPage.aspx" />
+    <Content Include="imagenes\bayer_logo_rgb_Facebook72_color.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imagenes\bg.jpg" />
+    <Content Include="imagenes\buttonhover.gif" />
+    <Content Include="imagenes\buttonround.gif" />
+    <Content Include="imagenes\Check-128.png" />
+    <Content Include="imagenes\codBar.jpg" />
+    <Content Include="imagenes\data_express_international1.png" />
+    <Content Include="imagenes\Default.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imagenes\Delete-128.png" />
+    <Content Include="imagenes\estado2.jpg" />
+    <Content Include="imagenes\estado3.jpg" />
+    <Content Include="imagenes\estadoP.jpg" />
+    <Content Include="imagenes\estadoR.jpg" />
+    <Content Include="imagenes\form_bg.jpg" />
+    <Content Include="imagenes\icono_adelante.gif" />
+    <Content Include="imagenes\lafrager.jpg" />
+    <Content Include="imagenes\logo.png" />
+    <Content Include="imagenes\LOGO_2.jpg" />
+    <Content Include="imagenes\LOGO_21.png" />
+    <Content Include="imagenes\logo_cima1.png" />
+    <Content Include="imagenes\logo_transoceanica.png" />
+    <Content Include="imagenes\logo_UNACEM.jpg" />
+    <Content Include="imagenes\logo_cima.png" />
+    <Content Include="imagenes\mail.jpg" />
+    <Content Include="imagenes\web_search.png" />
+    <Content Include="librerias\Default.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="manual\Default.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="nuevo\ComproDetalleAdicional.aspx" />
+    <Content Include="PopLogError.aspx" />
+    <Content Include="Procesando.aspx" />
+    <Content Include="cuenta\Registro.aspx" />
+    <Content Include="cuenta\Olvido.aspx" />
+    <Content Include="Documentos.aspx" />
+    <Content Include="download.aspx" />
+    <Content Include="cuenta\Login.aspx" />
+    <Content Include="Cerrar.aspx" />
+    <Content Include="imagenes\DataExpressInt.jpg" />
+    <Content Include="imagenes\loader.gif" />
+    <Content Include="imagenes\logo-super-pagina1.jpg" />
+    <Content Include="nuevo\autoRuc.asmx" />
+    <Content Include="nuevo\factura\crearFactura.aspx" />
+    <Content Include="nuevo\guiaremision\crearGuia.aspx" />
+    <Content Include="nuevo\notacredito\crearNotaCredito.aspx" />
+    <Content Include="nuevo\notadebito\crearNotaDebito.aspx" />
+    <Content Include="nuevo\retencion\crearRetencion.aspx" />
+    <Content Include="recepcion\Default.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="recepcion\docsAceptados.aspx" />
+    <Content Include="recepcion\DocumentosRecepcion.aspx" />
+    <Content Include="recepcion\enviaMail.aspx" />
+    <Content Include="recepcion\HistorialAutorizacion.aspx" />
+    <Content Include="recepcion\logError.aspx" />
+    <Content Include="recepcion\PopUpFE.aspx" />
+    <Content Include="recepcion\Validar.aspx" />
+    <Content Include="recepcion\verificarDocs.aspx" />
+    <Content Include="reportes\Docs\Default.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="reportes\RepGeneral.aspx" />
+    <Content Include="StyleSheet.css" />
+    <Content Include="visorEventos.aspx" />
+    <Content Include="imagenes\bg_home4_01.jpg" />
+    <Content Include="imagenes\edit_delete.png" />
+    <Content Include="imagenes\estado0.jpg" />
+    <Content Include="imagenes\estado1.jpg" />
+    <Content Include="imagenes\excel.png" />
+    <Content Include="imagenes\excel24x24.png" />
+    <Content Include="imagenes\excel32x32.png" />
+    <Content Include="imagenes\folder_new.png" />
+    <Content Include="imagenes\modify.png" />
+    <Content Include="imagenes\pdf.png" />
+    <Content Include="imagenes\pdf32x32.png" />
+    <Content Include="imagenes\xml.gif" />
+    <Content Include="imagenes\pdf.gif" />
+    <Content Include="imagenes\xml.png" />
+    <Content Include="imagenes\xml32x32.png" />
+    <Content Include="imagenes\zip3.png" />
+    <Content Include="imagenes\zip32x32.png" />
+    <Content Include="imagenes\construccion.png" />
+    <Content Include="newdoc.aspx" />
+    <Content Include="reportes\reporteFolio.aspx" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="webservice\csService.asmx" />
+    <Content Include="xml\Default.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="xsdCima\1_0_0\Default.htm" />
+    <Content Include="xsdCima\1_1_0\Default.htm" />
+    <Content Include="xsdCima\Default.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\empresas\agregarEmpresa.aspx.cs">
+      <DependentUpon>agregarEmpresa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\empresas\agregarEmpresa.aspx.designer.cs">
+      <DependentUpon>agregarEmpresa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\empresas\Empresas.aspx.cs">
+      <DependentUpon>Empresas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\empresas\Empresas.aspx.designer.cs">
+      <DependentUpon>Empresas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\empresas\PopConfigEmpresa.aspx.cs">
+      <DependentUpon>PopConfigEmpresa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\empresas\PopConfigEmpresa.aspx.designer.cs">
+      <DependentUpon>PopConfigEmpresa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\roles\NuevoRolDinamicos.aspx.cs">
+      <DependentUpon>NuevoRolDinamicos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\roles\NuevoRolDinamicos.aspx.designer.cs">
+      <DependentUpon>NuevoRolDinamicos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\roles\RolDinamico.aspx.cs">
+      <DependentUpon>RolDinamico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\roles\RolDinamico.aspx.designer.cs">
+      <DependentUpon>RolDinamico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\sucursales\pruebaGrid.aspx.cs">
+      <DependentUpon>pruebaGrid.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\sucursales\pruebaGrid.aspx.designer.cs">
+      <DependentUpon>pruebaGrid.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\usuarios\agregar_usuario.aspx.cs">
+      <DependentUpon>agregar_usuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\usuarios\agregar_usuario.aspx.designer.cs">
+      <DependentUpon>agregar_usuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\usuarios\clientes.aspx.cs">
+      <DependentUpon>clientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\usuarios\clientes.aspx.designer.cs">
+      <DependentUpon>clientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\usuarios\eliminar_usuario.aspx.cs">
+      <DependentUpon>eliminar_usuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\usuarios\eliminar_usuario.aspx.designer.cs">
+      <DependentUpon>eliminar_usuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\usuarios\empleados.aspx.cs">
+      <DependentUpon>empleados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\usuarios\empleados.aspx.designer.cs">
+      <DependentUpon>empleados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\usuarios\modificar_usuario.aspx.cs">
+      <DependentUpon>modificar_usuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\usuarios\modificar_usuario.aspx.designer.cs">
+      <DependentUpon>modificar_usuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\roles\crear_rol.aspx.cs">
+      <DependentUpon>crear_rol.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\roles\crear_rol.aspx.designer.cs">
+      <DependentUpon>crear_rol.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\roles\eliminarRol.aspx.cs">
+      <DependentUpon>eliminarRol.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\roles\eliminarRol.aspx.designer.cs">
+      <DependentUpon>eliminarRol.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\roles\modificar_roles.aspx.cs">
+      <DependentUpon>modificar_roles.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\roles\modificar_roles.aspx.designer.cs">
+      <DependentUpon>modificar_roles.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\roles\roles.aspx.cs">
+      <DependentUpon>roles.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\roles\roles.aspx.designer.cs">
+      <DependentUpon>roles.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\sesiones\crear_sesion.aspx.cs">
+      <DependentUpon>crear_sesion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\sesiones\crear_sesion.aspx.designer.cs">
+      <DependentUpon>crear_sesion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\sesiones\eliminarSesion.aspx.cs">
+      <DependentUpon>eliminarSesion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\sesiones\eliminarSesion.aspx.designer.cs">
+      <DependentUpon>eliminarSesion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\sesiones\modificar_sesion.aspx.cs">
+      <DependentUpon>modificar_sesion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\sesiones\modificar_sesion.aspx.designer.cs">
+      <DependentUpon>modificar_sesion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\sesiones\sesiones.aspx.cs">
+      <DependentUpon>sesiones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\sesiones\sesiones.aspx.designer.cs">
+      <DependentUpon>sesiones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\sucursales\agregarSucursal.aspx.cs">
+      <DependentUpon>agregarSucursal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\sucursales\agregarSucursal.aspx.designer.cs">
+      <DependentUpon>agregarSucursal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\sucursales\eliminarSucursal.aspx.cs">
+      <DependentUpon>eliminarSucursal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\sucursales\eliminarSucursal.aspx.designer.cs">
+      <DependentUpon>eliminarSucursal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\sucursales\modificarSucursal.aspx.cs">
+      <DependentUpon>modificarSucursal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\sucursales\modificarSucursal.aspx.designer.cs">
+      <DependentUpon>modificarSucursal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminstracion\sucursales\sucursales.aspx.cs">
+      <DependentUpon>sucursales.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminstracion\sucursales\sucursales.aspx.designer.cs">
+      <DependentUpon>sucursales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="configuracion\email\modReglas.aspx.cs">
+      <DependentUpon>modReglas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="configuracion\email\modReglas.aspx.designer.cs">
+      <DependentUpon>modReglas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="configuracion\email\reglas.aspx.cs">
+      <DependentUpon>reglas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="configuracion\email\reglas.aspx.designer.cs">
+      <DependentUpon>reglas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="configuracion\email\addReglas.aspx.cs">
+      <DependentUpon>addReglas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="configuracion\email\addReglas.aspx.designer.cs">
+      <DependentUpon>addReglas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="configuracion\email\servermail.aspx.cs">
+      <DependentUpon>servermail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="configuracion\email\servermail.aspx.designer.cs">
+      <DependentUpon>servermail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="configuracion\log\logError.aspx.cs">
+      <DependentUpon>logError.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="configuracion\log\logError.aspx.designer.cs">
+      <DependentUpon>logError.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="configuracion\log\log_usuario.aspx.cs">
+      <DependentUpon>log_usuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="configuracion\log\log_usuario.aspx.designer.cs">
+      <DependentUpon>log_usuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="configuracion\Mostrar.aspx.cs">
+      <DependentUpon>Mostrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="configuracion\Mostrar.aspx.designer.cs">
+      <DependentUpon>Mostrar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="configuracion\CargaContigencia.aspx.cs">
+      <DependentUpon>CargaContigencia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="configuracion\CargaContigencia.aspx.designer.cs">
+      <DependentUpon>CargaContigencia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="configuracion\SaveFileDialog.cs" />
+    <Compile Include="ConsultaRecepcion.aspx.cs">
+      <DependentUpon>ConsultaRecepcion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ConsultaRecepcion.aspx.designer.cs">
+      <DependentUpon>ConsultaRecepcion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DataFilter1.ascx.cs">
+      <DependentUpon>DataFilter1.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DataFilter1.ascx.designer.cs">
+      <DependentUpon>DataFilter1.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Encriptaciondes.cs" />
+    <Compile Include="ErrorPage.aspx.cs">
+      <DependentUpon>ErrorPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ErrorPage.aspx.designer.cs">
+      <DependentUpon>ErrorPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Fileuploadhandler .ashx.cs">
+      <DependentUpon>Fileuploadhandler .ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Filter.cs" />
+    <Compile Include="General.cs" />
+    <Compile Include="Generic.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="nuevo\ComproDetalleAdicional.aspx.cs">
+      <DependentUpon>ComproDetalleAdicional.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="nuevo\ComproDetalleAdicional.aspx.designer.cs">
+      <DependentUpon>ComproDetalleAdicional.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PopLogError.aspx.cs">
+      <DependentUpon>PopLogError.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PopLogError.aspx.designer.cs">
+      <DependentUpon>PopLogError.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Procesando.aspx.cs">
+      <DependentUpon>Procesando.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Procesando.aspx.designer.cs">
+      <DependentUpon>Procesando.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cuenta\Registro.aspx.cs">
+      <DependentUpon>Registro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cuenta\Registro.aspx.designer.cs">
+      <DependentUpon>Registro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cuenta\Olvido.aspx.cs">
+      <DependentUpon>Olvido.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cuenta\Olvido.aspx.designer.cs">
+      <DependentUpon>Olvido.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="construccion.aspx.cs">
+      <DependentUpon>construccion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="construccion.aspx.designer.cs">
+      <DependentUpon>construccion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Documentos.aspx.cs">
+      <DependentUpon>Documentos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Documentos.aspx.designer.cs">
+      <DependentUpon>Documentos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="download.aspx.cs">
+      <DependentUpon>download.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="download.aspx.designer.cs">
+      <DependentUpon>download.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cuenta\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cuenta\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Cerrar.aspx.cs">
+      <DependentUpon>Cerrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cerrar.aspx.designer.cs">
+      <DependentUpon>Cerrar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="nuevo\autoRuc.asmx.cs">
+      <DependentUpon>autoRuc.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="nuevo\factura\crearFactura.aspx.cs">
+      <DependentUpon>crearFactura.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="nuevo\factura\crearFactura.aspx.designer.cs">
+      <DependentUpon>crearFactura.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="nuevo\guiaremision\crearGuia.aspx.cs">
+      <DependentUpon>crearGuia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="nuevo\guiaremision\crearGuia.aspx.designer.cs">
+      <DependentUpon>crearGuia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="nuevo\notacredito\crearNotaCredito.aspx.cs">
+      <DependentUpon>crearNotaCredito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="nuevo\notacredito\crearNotaCredito.aspx.designer.cs">
+      <DependentUpon>crearNotaCredito.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="nuevo\notadebito\crearNotaDebito.aspx.cs">
+      <DependentUpon>crearNotaDebito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="nuevo\notadebito\crearNotaDebito.aspx.designer.cs">
+      <DependentUpon>crearNotaDebito.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="nuevo\retencion\crearRetencion.aspx.cs">
+      <DependentUpon>crearRetencion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="nuevo\retencion\crearRetencion.aspx.designer.cs">
+      <DependentUpon>crearRetencion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="recepcion\docsAceptados.aspx.cs">
+      <DependentUpon>docsAceptados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recepcion\docsAceptados.aspx.designer.cs">
+      <DependentUpon>docsAceptados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="recepcion\DocumentosRecepcion.aspx.cs">
+      <DependentUpon>DocumentosRecepcion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recepcion\DocumentosRecepcion.aspx.designer.cs">
+      <DependentUpon>DocumentosRecepcion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="recepcion\enviaMail.aspx.cs">
+      <DependentUpon>enviaMail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recepcion\enviaMail.aspx.designer.cs">
+      <DependentUpon>enviaMail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="recepcion\HistorialAutorizacion.aspx.cs">
+      <DependentUpon>HistorialAutorizacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recepcion\HistorialAutorizacion.aspx.designer.cs">
+      <DependentUpon>HistorialAutorizacion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="recepcion\logError.aspx.cs">
+      <DependentUpon>logError.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recepcion\logError.aspx.designer.cs">
+      <DependentUpon>logError.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="recepcion\PopUpFE.aspx.cs">
+      <DependentUpon>PopUpFE.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recepcion\PopUpFE.aspx.designer.cs">
+      <DependentUpon>PopUpFE.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="recepcion\Validar.aspx.cs">
+      <DependentUpon>Validar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recepcion\Validar.aspx.designer.cs">
+      <DependentUpon>Validar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="recepcion\verificarDocs.aspx.cs">
+      <DependentUpon>verificarDocs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recepcion\verificarDocs.aspx.designer.cs">
+      <DependentUpon>verificarDocs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\prueba_report.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>prueba_report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportes\RepGeneral.aspx.cs">
+      <DependentUpon>RepGeneral.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="reportes\RepGeneral.aspx.designer.cs">
+      <DependentUpon>RepGeneral.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site2.Master.cs">
+      <DependentUpon>Site2.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site2.Master.designer.cs">
+      <DependentUpon>Site2.Master</DependentUpon>
+    </Compile>
+    <Compile Include="ValidarPermisos.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="visorEventos.aspx.cs">
+      <DependentUpon>visorEventos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="visorEventos.aspx.designer.cs">
+      <DependentUpon>visorEventos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="librerias\excel\ExcelUtilities.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="newdoc.aspx.cs">
+      <DependentUpon>newdoc.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="newdoc.aspx.designer.cs">
+      <DependentUpon>newdoc.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="reportes\Producto.cs" />
+    <Compile Include="reportes\reporteFolio.aspx.cs">
+      <DependentUpon>reporteFolio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="reportes\reporteFolio.aspx.designer.cs">
+      <DependentUpon>reporteFolio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="webservice\Autenticacion.cs" />
+    <Compile Include="webservice\csService.asmx.cs">
+      <DependentUpon>csService.asmx</DependentUpon>
+    </Compile>
+    <Compile Include="webservice\ServicioSeguro.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="recepcion\docus\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\clibLogger\clibLogger.csproj">
+      <Project>{b6b35c8b-391a-425e-a6c6-016e163d0bf6}</Project>
+      <Name>clibLogger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Control\Control.csproj">
+      <Project>{6D54F8F7-39DE-4076-BC26-775D833A3C85}</Project>
+      <Name>Control</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CriptoSimetrica\CriptoSimetrica.csproj">
+      <Project>{AD906785-969C-4D18-B53E-B6A129EF9A0E}</Project>
+      <Name>CriptoSimetrica</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CryptoNETStandar\CryptoNETStandar.csproj">
+      <Project>{0c5cdf9c-bb07-458b-85f6-b743add7c852}</Project>
+      <Name>CryptoNETStandar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Datos\Datos.csproj">
+      <Project>{30E49478-97EE-45B6-A9C2-4E5242F7A39F}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reportes\Reportes.csproj">
+      <Project>{A45A98D0-EF8A-4B7F-B014-8F90BA7C1837}</Project>
+      <Name>Reportes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\validacion\ValSign.csproj">
+      <Project>{EB349C5B-EB39-4816-8E7B-2B64CE9FB486}</Project>
+      <Name>ValSign</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Fileuploadhandler .ashx" />
+    <None Include="manual\ManualInvoicecEcuador.pdf" />
+    <Content Include="Site2.Master" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\UNACEM.pubxml" />
+    <None Include="xsdCima\1_0_0\comprobanteRetencion.xsd">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="xsdCima\1_0_0\factura.xsd">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="xsdCima\1_0_0\guiaRemision.xsd">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="xsdCima\1_0_0\notaCredito.xsd">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="xsdCima\1_0_0\notaDebito.xsd">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="xsdCima\1_0_0\notaDebito_Finance.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsdCima\1_1_0\factura.xsd">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="xsdCima\1_1_0\guiaremision.xsd">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="xsdCima\1_1_0\notacredito.xsd">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="xsdCima\2_0_0\ComprobanteRetencion_V2.0.0.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="reportes\prueba_report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>prueba_report.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1593</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

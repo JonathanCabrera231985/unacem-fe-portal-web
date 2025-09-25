@@ -1,0 +1,192 @@
+D:\server\Ecuador\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+D:\server\Ecuador\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+D:\server\Ecuador\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+D:\server\Ecuador\DataEcuadorWeb\Reportes\obj\Debug\ResolveAssemblyReference.cache
+D:\server\Ecuador\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+D:\server\Ecuador\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+D:\server\Ecuador\DataEcuadorWeb\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+D:\server\Ecuador\DataEcuadorWeb\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+D:\server\Ecuador\DataEcuadorWeb\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+D:\server\Ecuador\DataEcuadorWeb\DataEcuadorWeb\Reportes\obj\Debug\ResolveAssemblyReference.cache
+D:\server\Ecuador\DataEcuadorWeb\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+D:\server\Ecuador\DataEcuadorWeb\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+D:\server\FacturacionEcuador\Servientrega\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+D:\server\FacturacionEcuador\Servientrega\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+D:\server\FacturacionEcuador\Servientrega\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+D:\server\FacturacionEcuador\Servientrega\DataEcuadorWeb\Reportes\obj\Debug\ResolveAssemblyReference.cache
+D:\server\FacturacionEcuador\Servientrega\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+D:\server\FacturacionEcuador\Servientrega\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+D:\DataExpress\WebDev\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+D:\DataExpress\WebDev\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+D:\DataExpress\WebDev\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+D:\DataExpress\WebDev\DataEcuadorWeb\Reportes\obj\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\WebDev\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+D:\DataExpress\WebDev\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\DataExpress\Nueva carpeta\Servientrega\DataEcuadorWeb\Reportes\obj\Debug\ResolveAssemblyReference.cache
+C:\DataExpress\Nueva carpeta\Servientrega\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\DataExpress\Nueva carpeta\Servientrega\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\DataExpress\Nueva carpeta\Servientrega\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\DataExpress\Nueva carpeta\Servientrega\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\DataExpress\Nueva carpeta\Servientrega\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\DataExpress\Servientrega\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\DataExpress\Servientrega\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\DataExpress\Servientrega\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\DataExpress\Servientrega\DataEcuadorWeb\Reportes\obj\Debug\ResolveAssemblyReference.cache
+C:\DataExpress\Servientrega\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\DataExpress\Servientrega\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\DataExpress\Servientrega\WebDev\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\DataExpress\Servientrega\WebDev\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\DataExpress\Servientrega\WebDev\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\DataExpress\Servientrega\WebDev\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\DataExpress\Servientrega\WebDev\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\Transoceanica\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\Transoceanica\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\Transoceanica\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\Transoceanica\DataEcuadorWeb\Reportes\obj\Debug\ResolveAssemblyReference.cache
+C:\Transoceanica\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\Transoceanica\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\Reportes\obj\Debug\ResolveAssemblyReference.cache
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\Reportes\obj\Debug\RdlCompile.cache
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\Reportes\obj\Debug\RdlCompile.compiled
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+F:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+F:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+F:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+F:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+F:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\CimaIT\Invoicec\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\CimaIT\Bayer\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\Proyecto_Ruben\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\Proyecto_Ruben\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\Proyecto_Ruben\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\Proyecto_Ruben\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\Proyecto_Ruben\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\CimaIT\LaFarge\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll.config
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\bin\Debug\Reportes.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\Reportes\obj\Debug\Reportes.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\Reportes\bin\Debug\Reportes.dll.config
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\Reportes\bin\Debug\Reportes.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\Reportes\bin\Debug\Reportes.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\Reportes\obj\Debug\Reportes.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\Reportes\obj\Debug\Reportes.pdb
+C:\pablo proyectos\proyectos\unacem\unacem\primarias\Portal_UNACEM\Reportes\bin\Debug\Reportes.dll.config
+C:\pablo proyectos\proyectos\unacem\unacem\primarias\Portal_UNACEM\Reportes\bin\Debug\Reportes.dll
+C:\pablo proyectos\proyectos\unacem\unacem\primarias\Portal_UNACEM\Reportes\bin\Debug\Reportes.pdb
+C:\pablo proyectos\proyectos\unacem\unacem\primarias\Portal_UNACEM\Reportes\obj\Debug\Reportes.dll
+C:\pablo proyectos\proyectos\unacem\unacem\primarias\Portal_UNACEM\Reportes\obj\Debug\Reportes.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Reportes\bin\Debug\Reportes.dll.config
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Reportes\bin\Debug\Reportes.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Reportes\bin\Debug\Reportes.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Reportes\bin\Debug\stdole.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Reportes\obj\Debug\Reportes.csproj.Up2Date
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Reportes\obj\Debug\Reportes.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\Reportes\obj\Debug\Reportes.pdb

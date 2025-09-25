@@ -1,0 +1,184 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="DataExpressWeb.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Invoicec</title>
+    <%--Desarrollo - QA--%>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/StyleSheet.css" rel="stylesheet" type="text/css" />
+<%--    Producción
+    <link href=" http://apps.unacem.com.ec/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="http://apps.unacem.com.ec/StyleSheet.css" rel="stylesheet" type="text/css" />--%>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <script src='https://code.jquery.com/jquery-3.7.1.min.js' type='text/javascript'> </script>
+    <style type="text/css">
+        .style1
+        {
+            color: #FFFFFF;
+        }
+        .styleImprint
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: xx-small;
+            width: 412px;
+        }
+        .style2
+        {
+            height: 80px;
+            width: 192px;
+        }
+        </style>
+            <script type="text/javascript">
+                function changeToUpperCase(controlName) {
+                    document.getElementById(controlName).value = document.getElementById(controlName).value.toUpperCase();
+                }
+    </script>
+    </head>
+<body background="imagenes/bg_home4_01.jpg">
+    <form id="Form1" runat="server">
+    <div class="page">
+        <div class="header">
+            <br />
+            <div class="title">
+                <h1>
+                    <span class="style1">
+                        <asp:Image ID="Image1" runat="server" Height="82px" ImageUrl="~/imagenes/LOGO_HORIZONTAL.png"
+                            Width="179px" />
+                        &nbsp;
+                        <asp:Image ID="Image2" runat="server" Height="49px" ImageUrl="~/imagenes/logo.png"
+                            Width="193px" />
+                    </span>
+                </h1>
+            </div>
+            <div class="loginDisplay">
+                <table align="right">
+                    <tr>
+                        <td>
+                <%  if (Session["rfcUser"] == null)
+                    {  %>
+                <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/cuenta/Login.aspx">Iniciar Sesion</asp:HyperLink>
+                <%  }
+                    else
+                    {  %>
+                <asp:Label ID="lRfc" runat="server"></asp:Label>
+                <asp:HyperLink ID="hlCerrar" runat="server" NavigateUrl="~/Cerrar.aspx">Cerrar Sesion</asp:HyperLink>
+                &nbsp;<%  }  %>
+                        </td>
+                        <td>
+                        &nbsp;&nbsp;&nbsp;&nbsp;
+                        </td>
+                        <td>
+                           
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="nmMenu" runat="server" CssClass="menu" 
+                    EnableViewState="False" IncludeStyleBlock="False" Orientation="Horizontal" 
+                    onmenuitemclick="NavigationMenu_MenuItemClick">
+                    <DynamicHoverStyle BackColor="#0BA46E" />
+                    <DynamicMenuStyle BackColor="#6A7F10" />
+                    <DynamicItemTemplate>
+                        <%# Eval("Text") %>
+                    </DynamicItemTemplate>
+                  <%--  <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Página principal"/>
+                        <asp:MenuItem Text="Nuevo Documento" Value="Nuevo Documento">
+                            <asp:MenuItem NavigateUrl="~/nuevo/factura/crearFactura.aspx" Text="Factura" Value="Factura">
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/nuevo/notacredito/crearNotaCredito.aspx" Text="Nota de Crédito" Value="Nota de Crédito">
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/nuevo/retencion/crearRetencion.aspx" Text="Retenciones" Value="Retenciones">
+                            </asp:MenuItem>
+                               <asp:MenuItem NavigateUrl="~/nuevo/notadebito/crearNotaDebito.aspx" 
+                                Text="Nota de Débito" Value="Nota de Débito"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/nuevo/guiaremision/crearGuia.aspx" 
+                                Text="Guia de Remisión" Value="Guia de Remisión"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="Documentos" Value="Documentos">
+                            <asp:MenuItem NavigateUrl="~/Documentos.aspx" Text ="Consulta" Value="Consulta">
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/reportes/RepGeneral.aspx" Text="Reporte General" Value="Reporte General">
+                            </asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem 
+                            Text="Usuarios" Value="Usuarios">
+                            <asp:MenuItem NavigateUrl="~/adminstracion/usuarios/agregar_usuario.aspx" Text="Agregar" 
+                                Value="Agregar"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/adminstracion/usuarios/clientes.aspx" 
+                                Text="Clientes" Value="Clientes"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/adminstracion/usuarios/empleados.aspx" 
+                                Text="Empleados" Value="Empleados"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="Roles">
+                            <asp:MenuItem NavigateUrl="~/adminstracion/roles/roles.aspx" Value="Administración" Text="Administración"></asp:MenuItem>
+                            <asp:MenuItem Text="Crear" Value="Crear" NavigateUrl="~/adminstracion/roles/crear_rol.aspx">
+                            </asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="Sucursales" Value="Sucursales">
+                            <asp:MenuItem NavigateUrl="~/adminstracion/sucursales/sucursales.aspx" Text="Configuración" Value="Configuración"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/adminstracion/sucursales/agregarSucursal.aspx" Text="Agregar" Value="Agregar">
+                            </asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="Configuración" Value="Configuración">
+                            <asp:MenuItem Text="General" Value="General" 
+                                NavigateUrl="~/configuracion/Mostrar.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="E-mail" Value="E-mail" 
+                                NavigateUrl="~/configuracion/email/servermail.aspx">
+                                <asp:MenuItem NavigateUrl="~/configuracion/email/reglas.aspx" 
+                                    Text="Reglas Email" Value="Reglas Email"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/configuracion/email/addReglas.aspx" 
+                                    Text="Agregar Regla" Value="Agregar Regla"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/configuracion/email/servermail.aspx" 
+                                    Text="Server SMTP" Value="Server SMTP"></asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem Text="logErrores" Value="logErrores" 
+                                NavigateUrl="~/configuracion/log/logError.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Carga Contigencia" Value="CargaContigencia" 
+                                NavigateUrl="~/configuracion/CargaContigencia.aspx"></asp:MenuItem>
+                                </asp:MenuItem>
+                        <asp:MenuItem Text="Recepción" Value="Recepción">
+                            <asp:MenuItem NavigateUrl="~/recepcion/verificarDocs.aspx" Text="Aceptar Comprobantes"
+                                Value="Validar Comprobantes"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/recepcion/docsAceptados.aspx" Text="Aprobar Comprobantes"
+                                Value="Aceptar Comprobantes"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Recepcion/DocumentosRecepcion.aspx" Text="Administrar Documentos"
+                                Value="Documentos"></asp:MenuItem>
+                            <asp:MenuItem Text="Log Errores" Value="Log Errores" NavigateUrl="~/Recepcion/logError.aspx">
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Recepcion/Validar.aspx" Text="Validación Manual" Value="Validación Manual">
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Recepcion/HistorialAutorizacion.aspx" Text="Historial Autorizacion"
+                                Value="Historial Autorizacion"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/manual/ManualInvoicecEcuador.pdf" Text="Manual" 
+                            Value="Manual"></asp:MenuItem>
+                    </Items>--%>
+                    <StaticMenuItemStyle BackColor="White" />
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ScriptManager ID="ScriptManager1" runat="server">
+            </asp:ScriptManager>
+            <asp:UpdatePanel ID="upMaster" runat="server" UpdateMode="Always">
+                <ContentTemplate>
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+                </ContentTemplate>
+            </asp:UpdatePanel>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

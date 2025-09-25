@@ -1,0 +1,71 @@
+C:\Users\Ismael\Documents\Visual Studio 2008\Projects\Atleticos.v.1.0\Atleticos\Datos\Datos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ismael\Documents\Visual Studio 2008\Projects\Atleticos.v.1.0\Atleticos\Datos\Datos\bin\Release\Datos.dll
+C:\Users\Ismael\Documents\Visual Studio 2008\Projects\Atleticos.v.1.0\Atleticos\Datos\Datos\bin\Release\Datos.pdb
+C:\Users\Ismael\Documents\Visual Studio 2008\Projects\Atleticos.v.1.0\Atleticos\Datos\Datos\obj\Release\Datos.dll
+C:\Users\Ismael\Documents\Visual Studio 2008\Projects\Atleticos.v.1.0\Atleticos\Datos\Datos\obj\Release\Datos.pdb
+C:\Users\monty\Documents\Visual Studio 2010\Projects\Atleticos 1.0\Source\Atleticos\Datos\Datos\bin\Release\Datos.dll
+C:\Users\monty\Documents\Visual Studio 2010\Projects\Atleticos 1.0\Source\Atleticos\Datos\Datos\bin\Release\Datos.pdb
+C:\Users\monty\Documents\Visual Studio 2010\Projects\Atleticos 1.0\Source\Atleticos\Datos\Datos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\monty\Documents\Visual Studio 2010\Projects\Atleticos 1.0\Source\Atleticos\Datos\Datos\obj\Release\Datos.dll
+C:\Users\monty\Documents\Visual Studio 2010\Projects\Atleticos 1.0\Source\Atleticos\Datos\Datos\obj\Release\Datos.pdb
+D:\server\SistemasFacturacion 1.0\DataBDI\DataBDIWeb\Datos\bin\Release\Datos.dll
+D:\server\SistemasFacturacion 1.0\DataBDI\DataBDIWeb\Datos\bin\Release\Datos.pdb
+D:\server\SistemasFacturacion 1.0\DataBDI\DataBDIWeb\Datos\obj\Release\ResolveAssemblyReference.cache
+D:\server\SistemasFacturacion 1.0\DataBDI\DataBDIWeb\Datos\obj\Release\Datos.dll
+D:\server\SistemasFacturacion 1.0\DataBDI\DataBDIWeb\Datos\obj\Release\Datos.pdb
+D:\Archivos\BDI\DataBDIWeb\Datos\bin\Release\Datos.dll
+D:\Archivos\BDI\DataBDIWeb\Datos\bin\Release\Datos.pdb
+D:\Archivos\BDI\DataBDIWeb\Datos\obj\Release\ResolveAssemblyReference.cache
+D:\Archivos\BDI\DataBDIWeb\Datos\obj\Release\Datos.dll
+D:\Archivos\BDI\DataBDIWeb\Datos\obj\Release\Datos.pdb
+D:\server\Ecuador\DataEcuadorWeb\Datos\bin\Release\Datos.dll
+D:\server\Ecuador\DataEcuadorWeb\Datos\bin\Release\Datos.pdb
+D:\server\Ecuador\DataEcuadorWeb\Datos\obj\Release\ResolveAssemblyReference.cache
+D:\server\Ecuador\DataEcuadorWeb\Datos\obj\Release\Datos.dll
+D:\server\Ecuador\DataEcuadorWeb\Datos\obj\Release\Datos.pdb
+C:\DataExpress\DataEcuadorWeb\Datos\bin\Release\Datos.dll
+C:\DataExpress\DataEcuadorWeb\Datos\bin\Release\Datos.pdb
+C:\DataExpress\DataEcuadorWeb\Datos\obj\Release\ResolveAssemblyReference.cache
+C:\DataExpress\DataEcuadorWeb\Datos\obj\Release\Datos.dll
+C:\DataExpress\DataEcuadorWeb\Datos\obj\Release\Datos.pdb
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\Datos\bin\Release\Datos.dll
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\Datos\bin\Release\Datos.pdb
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\Datos\obj\Release\Datos.dll
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\Datos\obj\Release\Datos.pdb
+C:\Transoceanica\DataEcuadorWeb\Datos\bin\Release\Datos.dll
+C:\Transoceanica\DataEcuadorWeb\Datos\bin\Release\Datos.pdb
+C:\Transoceanica\DataEcuadorWeb\Datos\obj\Release\ResolveAssemblyReference.cache
+C:\Transoceanica\DataEcuadorWeb\Datos\obj\Release\Datos.dll
+C:\Transoceanica\DataEcuadorWeb\Datos\obj\Release\Datos.pdb
+C:\Proyecto_Ruben\CimaIT\DataEcuadorWeb\Datos\bin\Release\Datos.dll
+C:\Proyecto_Ruben\CimaIT\DataEcuadorWeb\Datos\bin\Release\Datos.pdb
+C:\Proyecto_Ruben\CimaIT\DataEcuadorWeb\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+C:\Proyecto_Ruben\CimaIT\DataEcuadorWeb\Datos\obj\Release\Datos.dll
+C:\Proyecto_Ruben\CimaIT\DataEcuadorWeb\Datos\obj\Release\Datos.pdb
+C:\Users\CAC\Desktop\respaldo Ruben\Proyecto_Ruben\CimaIT\DataEcuadorWeb\Datos\bin\Release\Datos.dll
+C:\Users\CAC\Desktop\respaldo Ruben\Proyecto_Ruben\CimaIT\DataEcuadorWeb\Datos\bin\Release\Datos.pdb
+C:\Users\CAC\Desktop\respaldo Ruben\Proyecto_Ruben\CimaIT\DataEcuadorWeb\Datos\obj\Release\Datos.dll
+C:\Users\CAC\Desktop\respaldo Ruben\Proyecto_Ruben\CimaIT\DataEcuadorWeb\Datos\obj\Release\Datos.pdb
+C:\Users\CAC\Desktop\respaldo Ruben\Proyecto_Ruben\prrrrrrrrrrrrrrrrrrrrrrrrrrr\CimaIT\DataEcuadorWeb\Datos\bin\Release\Datos.dll
+C:\Users\CAC\Desktop\respaldo Ruben\Proyecto_Ruben\prrrrrrrrrrrrrrrrrrrrrrrrrrr\CimaIT\DataEcuadorWeb\Datos\bin\Release\Datos.pdb
+C:\Users\CAC\Desktop\respaldo Ruben\Proyecto_Ruben\prrrrrrrrrrrrrrrrrrrrrrrrrrr\CimaIT\DataEcuadorWeb\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+C:\Users\CAC\Desktop\respaldo Ruben\Proyecto_Ruben\prrrrrrrrrrrrrrrrrrrrrrrrrrr\CimaIT\DataEcuadorWeb\Datos\obj\Release\Datos.dll
+C:\Users\CAC\Desktop\respaldo Ruben\Proyecto_Ruben\prrrrrrrrrrrrrrrrrrrrrrrrrrr\CimaIT\DataEcuadorWeb\Datos\obj\Release\Datos.pdb
+C:\Users\RUBEN\Desktop\MarGlobalP\fausto\multiempresa\DataEcuadorWeb\Datos\bin\Release\Datos.dll
+C:\Users\RUBEN\Desktop\MarGlobalP\fausto\multiempresa\DataEcuadorWeb\Datos\bin\Release\Datos.pdb
+C:\Users\RUBEN\Desktop\MarGlobalP\fausto\multiempresa\DataEcuadorWeb\Datos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\RUBEN\Desktop\MarGlobalP\fausto\multiempresa\DataEcuadorWeb\Datos\obj\Release\Datos.dll
+C:\Users\RUBEN\Desktop\MarGlobalP\fausto\multiempresa\DataEcuadorWeb\Datos\obj\Release\Datos.pdb
+C:\CimaIT\MarGlobal\mARGLOBAL25\DataEcuadorWeb\Datos\bin\Release\Datos.dll
+C:\CimaIT\MarGlobal\mARGLOBAL25\DataEcuadorWeb\Datos\bin\Release\Datos.pdb
+C:\CimaIT\MarGlobal\mARGLOBAL25\DataEcuadorWeb\Datos\obj\Release\Datos.dll
+C:\CimaIT\MarGlobal\mARGLOBAL25\DataEcuadorWeb\Datos\obj\Release\Datos.pdb
+C:\CimaIT\LaFarge\CantServ\DataEcuadorWeb\Datos\bin\Release\Datos.dll
+C:\CimaIT\LaFarge\CantServ\DataEcuadorWeb\Datos\bin\Release\Datos.pdb
+C:\CimaIT\LaFarge\CantServ\DataEcuadorWeb\Datos\obj\Release\Datos.dll
+C:\CimaIT\LaFarge\CantServ\DataEcuadorWeb\Datos\obj\Release\Datos.pdb
+E:\CimaIT\Unacem\Cant\DataEcuadorWeb\Datos\bin\Release\Datos.dll
+E:\CimaIT\Unacem\Cant\DataEcuadorWeb\Datos\bin\Release\Datos.pdb
+E:\CimaIT\Unacem\Cant\DataEcuadorWeb\Datos\obj\Release\Datos.dll
+E:\CimaIT\Unacem\Cant\DataEcuadorWeb\Datos\obj\Release\Datos.pdb

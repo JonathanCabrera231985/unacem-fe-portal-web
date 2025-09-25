@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.Master.cs" Inherits="DataExpressWeb.Site2Master" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head2" runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Invoicec</title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/StyleSheet.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent2" runat="server">
+    </asp:ContentPlaceHolder>
+    <script src='../../Scripts/jquery-1.4.1.min.js' type='text/javascript'> </script>
+    <style type="text/css">
+        .style1
+        {
+            color: #FFFFFF;
+        }
+        
+        .styleImprint
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: xx-small;
+            width: 412px;
+        }
+    </style>
+</head>
+<body background="~/imagenes/bg_home4_01.jpg">
+    <form id="Form2" runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <br />
+                <h1>
+                    <span class="style1">&nbsp;
+                        <asp:Image ID="Image2" runat="server" Height="60px" ImageUrl="~/imagenes/logo_cima.png"
+                            Width="79px" />
+                    </span>
+                </h1>
+                <br />
+            </div>
+        </div>
+        <div class="loginDisplay">
+                <table align="right">
+                    <tr>
+                        <td>
+                            <asp:HyperLink ID="hlCerrar" runat="server" NavigateUrl="~/default.aspx">Inicio</asp:HyperLink>
+                        </td>
+                        <td>
+                            &nbsp;&nbsp;&nbsp;&nbsp;
+                        </td>
+                        <td>
+                            <%--<asp:Image ID="Image1" runat="server" ImageUrl="~/imagenes/logo_cima.png" Height="67px"
+                                Width="180px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--%>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        <div class="main">
+            <asp:ScriptManager ID="ScriptManager2" runat="server">
+            </asp:ScriptManager>
+            <asp:UpdatePanel ID="upMaster2" runat="server" UpdateMode="Always">
+                <ContentTemplate>
+                    <asp:ContentPlaceHolder ID="MainContent2" runat="server" />
+                </ContentTemplate>
+            </asp:UpdatePanel>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    </form>
+</body>
+</html>

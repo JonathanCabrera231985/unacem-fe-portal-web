@@ -1,0 +1,12 @@
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\Libreria\ClibLogger\bin\Debug\net8.0\ClibLogger.deps.json
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\Libreria\ClibLogger\bin\Debug\net8.0\ClibLogger.dll
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\Libreria\ClibLogger\bin\Debug\net8.0\ClibLogger.pdb
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\Libreria\ClibLogger\obj\Debug\net8.0\ClibLogger.csproj.AssemblyReference.cache
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\Libreria\ClibLogger\obj\Debug\net8.0\ClibLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\Libreria\ClibLogger\obj\Debug\net8.0\ClibLogger.AssemblyInfoInputs.cache
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\Libreria\ClibLogger\obj\Debug\net8.0\ClibLogger.AssemblyInfo.cs
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\Libreria\ClibLogger\obj\Debug\net8.0\ClibLogger.csproj.CoreCompileInputs.cache
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\Libreria\ClibLogger\obj\Debug\net8.0\ClibLogger.dll
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\Libreria\ClibLogger\obj\Debug\net8.0\refint\ClibLogger.dll
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\Libreria\ClibLogger\obj\Debug\net8.0\ClibLogger.pdb
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\Libreria\ClibLogger\obj\Debug\net8.0\ref\ClibLogger.dll

@@ -1,0 +1,266 @@
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\bin\Debug\validacion.dll
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\bin\Debug\validacion.pdb
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\bin\Debug\Crypto.dll
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\bin\Debug\Datos.dll
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\bin\Debug\diCrSysPKINet.dll
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\bin\Debug\Datos.pdb
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\obj\Debug\ResolveAssemblyReference.cache
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\obj\Debug\validacion.dll
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\obj\Debug\validacion.pdb
+D:\server\Impulsora\recepcion 2.0\dataRecepcion\validacion\bin\Debug\validacion.dll
+D:\server\Impulsora\recepcion 2.0\dataRecepcion\validacion\bin\Debug\validacion.pdb
+D:\server\Impulsora\recepcion 2.0\dataRecepcion\validacion\bin\Debug\Crypto.dll
+D:\server\Impulsora\recepcion 2.0\dataRecepcion\validacion\bin\Debug\Datos.dll
+D:\server\Impulsora\recepcion 2.0\dataRecepcion\validacion\bin\Debug\diCrSysPKINet.dll
+D:\server\Impulsora\recepcion 2.0\dataRecepcion\validacion\bin\Debug\Datos.pdb
+D:\server\Impulsora\recepcion 2.0\dataRecepcion\validacion\obj\Debug\ResolveAssemblyReference.cache
+D:\server\Impulsora\recepcion 2.0\dataRecepcion\validacion\obj\Debug\validacion.dll
+D:\server\Impulsora\recepcion 2.0\dataRecepcion\validacion\obj\Debug\validacion.pdb
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\bin\Debug\validacion.dll
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\bin\Debug\validacion.pdb
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\bin\Debug\Crypto.dll
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\bin\Debug\Datos.dll
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\bin\Debug\diCrSysPKINet.dll
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\bin\Debug\Datos.pdb
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\obj\Debug\validacion.dll
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\obj\Debug\validacion.pdb
+D:\server\FacturacionEcuador\Servientrega\XdServiceServientrega\validacion\bin\Debug\validacion.dll
+D:\server\FacturacionEcuador\Servientrega\XdServiceServientrega\validacion\bin\Debug\validacion.pdb
+D:\server\FacturacionEcuador\Servientrega\XdServiceServientrega\validacion\bin\Debug\Crypto.dll
+D:\server\FacturacionEcuador\Servientrega\XdServiceServientrega\validacion\bin\Debug\Datos.dll
+D:\server\FacturacionEcuador\Servientrega\XdServiceServientrega\validacion\bin\Debug\diCrSysPKINet.dll
+D:\server\FacturacionEcuador\Servientrega\XdServiceServientrega\validacion\bin\Debug\Datos.pdb
+D:\server\FacturacionEcuador\Servientrega\XdServiceServientrega\validacion\obj\Debug\ResolveAssemblyReference.cache
+D:\server\FacturacionEcuador\Servientrega\XdServiceServientrega\validacion\obj\Debug\validacion.dll
+D:\server\FacturacionEcuador\Servientrega\XdServiceServientrega\validacion\obj\Debug\validacion.pdb
+D:\DataExpress\XdServiceServientrega\validacion\bin\Debug\validacion.dll
+D:\DataExpress\XdServiceServientrega\validacion\bin\Debug\validacion.pdb
+D:\DataExpress\XdServiceServientrega\validacion\bin\Debug\Crypto.dll
+D:\DataExpress\XdServiceServientrega\validacion\bin\Debug\Datos.dll
+D:\DataExpress\XdServiceServientrega\validacion\bin\Debug\diCrSysPKINet.dll
+D:\DataExpress\XdServiceServientrega\validacion\bin\Debug\Datos.pdb
+D:\DataExpress\XdServiceServientrega\validacion\obj\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\XdServiceServientrega\validacion\obj\Debug\validacion.dll
+D:\DataExpress\XdServiceServientrega\validacion\obj\Debug\validacion.pdb
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\bin\Debug\validacion.dll
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\bin\Debug\validacion.pdb
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\bin\Debug\Crypto.dll
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\bin\Debug\Datos.dll
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\bin\Debug\diCrSysPKINet.dll
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\bin\Debug\Datos.pdb
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\obj\Debug\validacion.dll
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\obj\Debug\validacion.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\bin\Debug\validacion.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\bin\Debug\validacion.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\bin\Debug\Crypto.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\bin\Debug\Datos.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\bin\Debug\diCrSysPKINet.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\bin\Debug\Datos.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\obj\Debug\validacion.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\obj\Debug\validacion.pdb
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+C:\Proyecto_Ruben\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+C:\Proyecto_Ruben\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+C:\Proyecto_Ruben\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+C:\Proyecto_Ruben\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+C:\Proyecto_Ruben\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+C:\Proyecto_Ruben\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+C:\Proyecto_Ruben\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+C:\Proyecto_Ruben\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+C:\Proyecto_Ruben\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\validacion.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\validacion.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\Crypto.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\Datos.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\diCrSysPKINet.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\bin\Debug\Datos.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\obj\Debug\validacion.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\validacion\obj\Debug\validacion.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\validacion\bin\Debug\validacion.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\validacion\bin\Debug\validacion.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\validacion\bin\Debug\Crypto.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\validacion\bin\Debug\Datos.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\validacion\bin\Debug\diCrSysPKINet.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\validacion\bin\Debug\Datos.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\validacion\obj\Debug\ValSign.csprojResolveAssemblyReference.cache
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\validacion\obj\Debug\validacion.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\validacion\obj\Debug\validacion.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\validacion\bin\Debug\validacion.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\validacion\bin\Debug\validacion.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\validacion\bin\Debug\Crypto.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\validacion\bin\Debug\Datos.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\validacion\bin\Debug\diCrSysPKINet.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\validacion\bin\Debug\clibLogger.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\validacion\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\validacion\bin\Debug\Datos.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\validacion\bin\Debug\clibLogger.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\validacion\obj\Debug\ValSign.csproj.AssemblyReference.cache
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\validacion\obj\Debug\ValSign.csproj.CoreCompileInputs.cache
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\validacion\obj\Debug\ValSign.csproj.Up2Date
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\validacion\obj\Debug\validacion.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\validacion\obj\Debug\validacion.pdb

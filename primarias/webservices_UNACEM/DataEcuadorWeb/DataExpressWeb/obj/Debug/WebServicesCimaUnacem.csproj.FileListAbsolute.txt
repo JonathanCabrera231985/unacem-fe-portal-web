@@ -1,0 +1,13 @@
+C:\Users\CAPARICIO\Desktop\unam\unam\webservices_UNACEM\DataEcuadorWeb\DataExpressWeb\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\webservices_UNACEM\DataEcuadorWeb\DataExpressWeb\bin\CrystalDecisions.ReportSource.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\webservices_UNACEM\DataEcuadorWeb\DataExpressWeb\bin\CrystalDecisions.Shared.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\webservices_UNACEM\DataEcuadorWeb\DataExpressWeb\bin\CrystalDecisions.Web.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\webservices_UNACEM\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\webservices_UNACEM\DataEcuadorWeb\DataExpressWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\webservices_UNACEM\DataEcuadorWeb\DataExpressWeb\bin\ReportesDEI.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\webservices_UNACEM\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\webservices_UNACEM\DataEcuadorWeb\DataExpressWeb\obj\Debug\WebServicesCimaUnacem.csprojResolveAssemblyReference.cache
+C:\Users\CAPARICIO\Desktop\unam\unam\webservices_UNACEM\DataEcuadorWeb\DataExpressWeb\bin\WebServicesCimaUnacem.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\webservices_UNACEM\DataEcuadorWeb\DataExpressWeb\bin\WebServicesCimaUnacem.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\webservices_UNACEM\DataEcuadorWeb\DataExpressWeb\obj\Debug\WebServicesCimaUnacem.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\webservices_UNACEM\DataEcuadorWeb\DataExpressWeb\obj\Debug\WebServicesCimaUnacem.pdb

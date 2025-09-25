@@ -1,0 +1,1096 @@
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\DataEcuadorWeb\DataExpressWeb\obj\Debug\ResolveAssemblyReference.cache
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+D:\server\Ecuador\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+D:\server\Ecuador\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+D:\server\Ecuador\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+D:\server\Ecuador\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+D:\server\Ecuador\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+D:\server\Ecuador\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+D:\server\Ecuador\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+D:\server\Ecuador\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+D:\server\Ecuador\DataEcuadorWeb\DataExpressWeb\obj\Debug\ResolveAssemblyReference.cache
+D:\server\Ecuador\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+D:\server\Ecuador\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\DataExpress\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\DataExpress\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\DataExpress\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\DataExpress\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\DataExpress\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\DataExpress\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\DataExpress\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\DataExpress\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\DataExpress\DataEcuadorWeb\DataExpressWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\DataExpress\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\DataExpress\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\DataExpress\CimaIT\DataExpress\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\RdlCompile.cache
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\RdlCompile.compiled
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\Angelo trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\Angelo_trabajos\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+F:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+F:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+F:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+F:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+F:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+F:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+F:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+F:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+F:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+F:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+F:\Proyecto_Angelo\Transoceanica\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+C:\CimaIT\Invoicec\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito_old.xsd
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito_old.xsd
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\Proyecto_Ruben\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito_old.xsd
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\Proyecto_Ruben\LAFARGE\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\ReportesDEI.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\itextsharp.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\ReportesDEI.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\itextsharp.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\Proyecto Rubèn\Unacem\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\ReportesDEI.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\itextsharp.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\ReportesDEI.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\itextsharp.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\Users\andre\Desktop\UNACEM\Producción\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\ReportesDEI.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\itextsharp.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\ReportesDEI.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\itextsharp.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\ReportesDEI.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\itextsharp.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\ReportesDEI.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\itextsharp.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\ReportesDEI.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\itextsharp.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\ReportesDEI.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\itextsharp.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\ReportesDEI.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\itextsharp.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\ReportesDEI.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\itextsharp.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\ReportesDEI.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\itextsharp.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\Default.htm
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\roles\Default.htm
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\Default.htm
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\email\Default.htm
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\configuracion\log\Default.htm
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\cuenta\Default.htm
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\docus\Default.htm
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\imagenes\Default.htm
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\librerias\Default.htm
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\manual\Default.htm
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\recepcion\Default.htm
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\reportes\Docs\Default.htm
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xml\Default.htm
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\DataExpressWeb.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Control.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Datos.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Reportes.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\validacion.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\ReportesDEI.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\itextsharp.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Control.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\CriptoSimetrica.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Datos.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\Reportes.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\bin\validacion.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\DataEcuadorWeb\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\adminstracion\Default.htm
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\adminstracion\roles\Default.htm
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\configuracion\Default.htm
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\configuracion\email\Default.htm
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\configuracion\log\Default.htm
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\cuenta\Default.htm
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\docus\Default.htm
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\imagenes\Default.htm
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\librerias\Default.htm
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\manual\Default.htm
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\recepcion\Default.htm
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\reportes\Docs\Default.htm
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\xml\Default.htm
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\DataExpressWeb.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\DataExpressWeb.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\Control.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\CriptoSimetrica.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\Datos.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\Reportes.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\validacion.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\ReportesDEI.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\itextsharp.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\Control.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\CriptoSimetrica.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\Datos.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\Reportes.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\bin\validacion.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\obj\Debug\DataExpressWeb.csprojResolveAssemblyReference.cache
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Portal_UNACEM\DataExpressWeb\obj\Debug\DataExpressWeb.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\adminstracion\Default.htm
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\adminstracion\roles\Default.htm
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\adminstracion\sesiones\Default.htm
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\adminstracion\sucursales\Default.htm
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\adminstracion\usuarios\Default.htm
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\configuracion\Default.htm
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\configuracion\email\Default.htm
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\configuracion\log\Default.htm
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\cuenta\Default.htm
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\docus\Default.htm
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\imagenes\bayer_logo_rgb_Facebook72_color.png
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\imagenes\Default.htm
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\librerias\Default.htm
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\manual\Default.htm
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\recepcion\Default.htm
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\reportes\Docs\Default.htm
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\xml\Default.htm
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\xsdCima\1_0_0\factura.xsd
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\xsdCima\1_0_0\guiaRemision.xsd
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\xsdCima\1_0_0\notaCredito.xsd
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\xsdCima\1_0_0\notaDebito.xsd
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\xsdCima\1_1_0\factura.xsd
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\xsdCima\1_1_0\guiaremision.xsd
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\xsdCima\1_1_0\notacredito.xsd
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\xsdCima\1_0_0\comprobanteRetencion.xsd
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\DataExpressWeb.dll.config
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\DataExpressWeb.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\DataExpressWeb.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\Microsoft.Win32.Primitives.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\netstandard.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.AppContext.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Collections.Concurrent.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Collections.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Collections.NonGeneric.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Collections.Specialized.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.ComponentModel.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.ComponentModel.Primitives.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.ComponentModel.TypeConverter.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Console.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Data.Common.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Diagnostics.Contracts.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Diagnostics.Debug.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Diagnostics.Process.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Diagnostics.StackTrace.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Diagnostics.Tools.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Diagnostics.TraceSource.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Diagnostics.Tracing.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Drawing.Primitives.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Dynamic.Runtime.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Globalization.Calendars.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Globalization.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Globalization.Extensions.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.IO.Compression.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.IO.Compression.ZipFile.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.IO.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.IO.FileSystem.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.IO.FileSystem.Primitives.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.IO.FileSystem.Watcher.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.IO.IsolatedStorage.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.IO.MemoryMappedFiles.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.IO.Pipes.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Linq.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Linq.Expressions.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Linq.Parallel.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Linq.Queryable.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Net.Http.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Net.NameResolution.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Net.NetworkInformation.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Net.Ping.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Net.Primitives.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Net.Requests.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Net.Security.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Net.Sockets.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Net.WebHeaderCollection.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Net.WebSockets.Client.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Net.WebSockets.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.ObjectModel.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Reflection.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Reflection.Extensions.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Reflection.Primitives.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Resources.Reader.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Resources.ResourceManager.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Resources.Writer.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Runtime.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Runtime.Extensions.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Runtime.Handles.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Runtime.InteropServices.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Runtime.Numerics.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Runtime.Serialization.Formatters.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Runtime.Serialization.Json.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Runtime.Serialization.Primitives.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Runtime.Serialization.Xml.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Security.Claims.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Security.Cryptography.Algorithms.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Security.Cryptography.Csp.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Security.Cryptography.Encoding.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Security.Cryptography.Primitives.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Security.Principal.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Security.SecureString.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Text.Encoding.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Text.Encoding.Extensions.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Text.RegularExpressions.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Threading.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Threading.Overlapped.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Threading.Tasks.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Threading.Tasks.Parallel.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Threading.Thread.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Threading.ThreadPool.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Threading.Timer.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.ValueTuple.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Xml.ReaderWriter.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Xml.XDocument.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Xml.XmlDocument.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Xml.XmlSerializer.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Xml.XPath.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\System.Xml.XPath.XDocument.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\clibLogger.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\Control.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\CriptoSimetrica.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\CryptoNETStandar.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\Datos.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\Reportes.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\validacion.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\Newtonsoft.Json.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\ReportesDEI.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\itextsharp.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\clibLogger.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\Control.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\Control.dll.config
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\CriptoSimetrica.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\CryptoNETStandar.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\Datos.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\Reportes.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\Reportes.dll.config
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\bin\validacion.pdb
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\obj\Debug\DataExpressWeb.csproj.AssemblyReference.cache
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\obj\Debug\DataExpressWeb.csproj.CoreCompileInputs.cache
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\obj\Debug\DataExpr.55F3F9D5.Up2Date
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\obj\Debug\DataExpressWeb.dll
+C:\Projects\GIT\unacem-fe-portal-web\primarias\Portal_UNACEM\DataExpressWeb\obj\Debug\DataExpressWeb.pdb

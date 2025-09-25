@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. API", "01. API", "{10432109-B264-4790-9373-72947D9143C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Models", "02. Models", "{A8566854-7DD1-4362-B84F-7E0085CC8AEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Services", "03. Services", "{D1A5B4DD-2069-4249-ADCF-CE9688FD2B41}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "swConsultaDoc.Api", "swConsultaDoc.Api\swConsultaDoc.Api.csproj", "{D8F92E05-02FA-41FF-B76E-F82F535FB466}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "swConsultaDoc.Domain", "swConsultaDoc.Domain\swConsultaDoc.Domain.csproj", "{4F1ED8BF-B627-4E79-A65F-43C7809938BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "swConsultaDoc.Data", "swConsultaDoc.Service\swConsultaDoc.Data.csproj", "{523285B4-DD27-46BB-87F2-05CE9DEC08C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Librerias", "Librerias", "{8205AAF4-B483-4628-A2E0-A0FEEAA87D2A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClibLogger", "..\Libreria\ClibLogger\ClibLogger.csproj", "{FC3F68EC-2C2C-47DB-B340-853429CDC884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8F92E05-02FA-41FF-B76E-F82F535FB466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F92E05-02FA-41FF-B76E-F82F535FB466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F92E05-02FA-41FF-B76E-F82F535FB466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F92E05-02FA-41FF-B76E-F82F535FB466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F1ED8BF-B627-4E79-A65F-43C7809938BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1ED8BF-B627-4E79-A65F-43C7809938BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1ED8BF-B627-4E79-A65F-43C7809938BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1ED8BF-B627-4E79-A65F-43C7809938BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523285B4-DD27-46BB-87F2-05CE9DEC08C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523285B4-DD27-46BB-87F2-05CE9DEC08C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523285B4-DD27-46BB-87F2-05CE9DEC08C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523285B4-DD27-46BB-87F2-05CE9DEC08C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3F68EC-2C2C-47DB-B340-853429CDC884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3F68EC-2C2C-47DB-B340-853429CDC884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3F68EC-2C2C-47DB-B340-853429CDC884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3F68EC-2C2C-47DB-B340-853429CDC884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D8F92E05-02FA-41FF-B76E-F82F535FB466} = {10432109-B264-4790-9373-72947D9143C7}
+		{4F1ED8BF-B627-4E79-A65F-43C7809938BC} = {A8566854-7DD1-4362-B84F-7E0085CC8AEF}
+		{523285B4-DD27-46BB-87F2-05CE9DEC08C7} = {D1A5B4DD-2069-4249-ADCF-CE9688FD2B41}
+		{FC3F68EC-2C2C-47DB-B340-853429CDC884} = {8205AAF4-B483-4628-A2E0-A0FEEAA87D2A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2C6CDE2-C322-4713-BBA1-3A4D6431CAD2}
+	EndGlobalSection
+EndGlobal

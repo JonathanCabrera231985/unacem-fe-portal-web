@@ -1,0 +1,11 @@
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\swConsultaDoc\swConsultaDoc.Domain\bin\Debug\net8.0\swConsultaDoc.Domain.deps.json
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\swConsultaDoc\swConsultaDoc.Domain\bin\Debug\net8.0\swConsultaDoc.Domain.dll
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\swConsultaDoc\swConsultaDoc.Domain\bin\Debug\net8.0\swConsultaDoc.Domain.pdb
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\swConsultaDoc\swConsultaDoc.Domain\obj\Debug\net8.0\swConsultaDoc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\swConsultaDoc\swConsultaDoc.Domain\obj\Debug\net8.0\swConsultaDoc.Domain.AssemblyInfoInputs.cache
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\swConsultaDoc\swConsultaDoc.Domain\obj\Debug\net8.0\swConsultaDoc.Domain.AssemblyInfo.cs
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\swConsultaDoc\swConsultaDoc.Domain\obj\Debug\net8.0\swConsultaDoc.Domain.csproj.CoreCompileInputs.cache
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\swConsultaDoc\swConsultaDoc.Domain\obj\Debug\net8.0\swConsultaDoc.Domain.dll
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\swConsultaDoc\swConsultaDoc.Domain\obj\Debug\net8.0\refint\swConsultaDoc.Domain.dll
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\swConsultaDoc\swConsultaDoc.Domain\obj\Debug\net8.0\swConsultaDoc.Domain.pdb
+C:\TFS_INVOICEC\Dev\14.0-WebservicesSAP\primarias\webservices_UNACEM\swConsultaDoc\swConsultaDoc.Domain\obj\Debug\net8.0\ref\swConsultaDoc.Domain.dll

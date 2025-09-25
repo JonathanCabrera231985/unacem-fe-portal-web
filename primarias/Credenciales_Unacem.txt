@@ -1,0 +1,38 @@
+--======Acceso remoto al servidor en la nube========--
+Equipo : 52.179.9.179
+usuario : Solicitar
+password : Solicitar
+portal nube : http://52.179.9.179/cuenta/Login.aspx
+
+--======Acceso a base de datos en la nube=========--
+
+La base con la que se trabaja se llama :  Unacem
+La base Historica se llama :  old_Invoicec
+
+--=========Contactos de correos==========---
+El principal es : "Marco Antonio Cevallos" <marco.cevallos@unacem.com.ec>
+Adicionales     : "Bolivar Quina" <bolivar.quina@unacem.com.ec>,"Marco Proano" <marco.proano@unacem.com.ec>,
+"Galo Viteri Vásquez" <galo.viteri@unacem.com.ec>
+
+***Acceso AL Portal**
+usuario:cantivol
+clave:123456
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

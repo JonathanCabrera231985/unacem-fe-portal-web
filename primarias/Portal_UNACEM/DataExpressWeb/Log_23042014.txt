@@ -1,0 +1,40 @@
+23-04-2014  11:50:51  ingresando al metodo de de subirDocvClick validar.cs
+ 
+23-04-2014  11:50:51  recogiendo el nombre del documento seleccionado:: 019012362600107001001000116242201403260000.xml  vaida.cs
+ 
+23-04-2014  11:50:51  recogiendo la extencion del documento seleccionado:: .xml vaida.cs
+ 
+23-04-2014  11:50:51  entrando si es un archivo .xml vaida.cs
+ 
+23-04-2014  11:50:51  verificar el encoding del archivo seleccionado:: vaida.cs
+ 
+23-04-2014  11:50:51  guardando el archivo en la memoria del servidor vaida.cs
+ 
+23-04-2014  11:50:51  cargando el documento vaida.cs
+ 
+23-04-2014  11:50:51  terminando de cargar el documento xml vaida.cs
+ 
+23-04-2014  11:50:51  inicializando proceso de metodo porcesarRecepcion clase Recepcion.cs
+ 
+23-04-2014  11:50:51  reemplazando los documentos que tienens algun salto o espacios clase Recepcion.cs
+ 
+23-04-2014  11:50:51  terminando de verificar los asientos clase Recepcion.cs
+ 
+23-04-2014  11:50:51  haciendo instancia al nodoArchivo clase Recepcion.cs
+ 
+23-04-2014  11:50:51  verificando si claseAcceso esta vacio clase Recepcion.cs
+ 
+23-04-2014  11:50:51   clase Recepcion.cs
+ 
+23-04-2014  11:50:51  entrando por validarAutorizacion Recepcion.cs
+ 
+23-04-2014  11:51:03  retornando por falso al verificar el documento clase Recepcion.cs::    System.Xml.XmlElement
+ 
+23-04-2014  11:51:03  entrando por segunda version y ahora enviar al metodo procesarArchivoXML clase Recepcion.cs
+ 
+23-04-2014  11:51:03  entrando por version 1.0.0 por ArchivoXML clase Recepcion.cs
+ 
+23-04-2014  11:51:03  identificacionComprador:: 0991283765001  rucEmisor:: 
+ 
+23-04-2014  11:51:03  terminando de validar el documento de procesar recepcion vaida.cs
+ 

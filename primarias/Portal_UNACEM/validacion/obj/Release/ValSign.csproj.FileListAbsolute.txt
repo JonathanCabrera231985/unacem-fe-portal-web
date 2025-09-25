@@ -1,0 +1,99 @@
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\bin\Release\validacion.dll
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\bin\Release\validacion.pdb
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\bin\Release\Crypto.dll
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\bin\Release\Datos.dll
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\bin\Release\diCrSysPKINet.dll
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\bin\Release\Datos.pdb
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\obj\Release\ResolveAssemblyReference.cache
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\obj\Release\validacion.dll
+C:\Users\javier\Desktop\libreria Impulsora\dataRecepcion\validacion\obj\Release\validacion.pdb
+D:\server\Impulsora\libreria Impulsora\dataRecepcion\validacion\bin\Release\validacion.dll
+D:\server\Impulsora\libreria Impulsora\dataRecepcion\validacion\bin\Release\validacion.pdb
+D:\server\Impulsora\libreria Impulsora\dataRecepcion\validacion\bin\Release\Crypto.dll
+D:\server\Impulsora\libreria Impulsora\dataRecepcion\validacion\bin\Release\Datos.dll
+D:\server\Impulsora\libreria Impulsora\dataRecepcion\validacion\bin\Release\diCrSysPKINet.dll
+D:\server\Impulsora\libreria Impulsora\dataRecepcion\validacion\bin\Release\Datos.pdb
+D:\server\Impulsora\libreria Impulsora\dataRecepcion\validacion\obj\Release\ResolveAssemblyReference.cache
+D:\server\Impulsora\libreria Impulsora\dataRecepcion\validacion\obj\Release\validacion.dll
+D:\server\Impulsora\libreria Impulsora\dataRecepcion\validacion\obj\Release\validacion.pdb
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\bin\Release\validacion.dll
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\bin\Release\validacion.pdb
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\bin\Release\Crypto.dll
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\bin\Release\Datos.dll
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\bin\Release\diCrSysPKINet.dll
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\bin\Release\Datos.pdb
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\obj\Release\ValSign.csprojResolveAssemblyReference.cache
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\obj\Release\validacion.dll
+C:\DataExpress\Servientrega\WebDev\XdServiceServientrega\validacion\obj\Release\validacion.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\bin\Release\validacion.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\bin\Release\validacion.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\bin\Release\Crypto.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\bin\Release\Datos.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\bin\Release\diCrSysPKINet.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\bin\Release\Datos.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\obj\Release\ValSign.csprojResolveAssemblyReference.cache
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\obj\Release\validacion.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\validacion\obj\Release\validacion.pdb
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\bin\Release\validacion.dll
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\bin\Release\validacion.pdb
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\bin\Release\Crypto.dll
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\bin\Release\Datos.dll
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\bin\Release\diCrSysPKINet.dll
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\bin\Release\Datos.pdb
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\obj\Release\ValSign.csprojResolveAssemblyReference.cache
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\obj\Release\validacion.dll
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\validacion\obj\Release\validacion.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\bin\Release\validacion.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\bin\Release\validacion.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\bin\Release\Crypto.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\bin\Release\Datos.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\bin\Release\diCrSysPKINet.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\bin\Release\Datos.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\obj\Release\ValSign.csprojResolveAssemblyReference.cache
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\obj\Release\validacion.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\validacion\obj\Release\validacion.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\bin\Release\validacion.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\bin\Release\validacion.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\bin\Release\Crypto.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\bin\Release\Datos.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\bin\Release\diCrSysPKINet.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\bin\Release\Datos.pdb
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\obj\Release\ValSign.csprojResolveAssemblyReference.cache
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\obj\Release\validacion.dll
+C:\CimaIT\Bayer\DataEcuadorWeb\validacion\obj\Release\validacion.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\bin\Release\validacion.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\bin\Release\validacion.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\bin\Release\Crypto.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\bin\Release\Datos.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\bin\Release\diCrSysPKINet.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\bin\Release\Datos.pdb
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\obj\Release\ValSign.csprojResolveAssemblyReference.cache
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\obj\Release\validacion.dll
+C:\CimaIT\LaFarge\DataEcuadorWeb\validacion\obj\Release\validacion.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Release\validacion.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Release\validacion.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Release\Crypto.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Release\Datos.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Release\diCrSysPKINet.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Release\Datos.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\obj\Release\ValSign.csprojResolveAssemblyReference.cache
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\obj\Release\validacion.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\obj\Release\validacion.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Release\validacion.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Release\validacion.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Release\Crypto.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Release\Datos.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Release\diCrSysPKINet.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\bin\Release\Datos.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\obj\Release\ValSign.csprojResolveAssemblyReference.cache
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\obj\Release\validacion.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\DataEcuadorWeb\validacion\obj\Release\validacion.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\bin\Release\validacion.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\bin\Release\validacion.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\bin\Release\Crypto.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\bin\Release\Datos.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\bin\Release\diCrSysPKINet.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\bin\Release\Datos.pdb
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\obj\Release\ValSign.csprojResolveAssemblyReference.cache
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\obj\Release\validacion.dll
+C:\CimaIT\LaFarge\Unacem\DataEcuadorWeb\validacion\obj\Release\validacion.pdb

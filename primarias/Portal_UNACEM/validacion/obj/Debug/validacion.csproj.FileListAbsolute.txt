@@ -1,0 +1,7 @@
+D:\server\validador1.0\validacion\obj\Debug\ResolveAssemblyReference.cache
+D:\server\validador1.0\validacion\bin\Debug\validacion.dll
+D:\server\validador1.0\validacion\bin\Debug\validacion.pdb
+D:\server\validador1.0\validacion\bin\Debug\Crypto.dll
+D:\server\validador1.0\validacion\bin\Debug\diCrSysPKINet.dll
+D:\server\validador1.0\validacion\obj\Debug\validacion.dll
+D:\server\validador1.0\validacion\obj\Debug\validacion.pdb

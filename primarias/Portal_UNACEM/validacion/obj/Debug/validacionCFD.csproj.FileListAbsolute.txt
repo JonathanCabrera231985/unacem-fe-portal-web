@@ -1,0 +1,66 @@
+D:\server\Impulsora\recepcion\Version 1.0\dataRecepcion\validacion\bin\Debug\validacion.dll
+D:\server\Impulsora\recepcion\Version 1.0\dataRecepcion\validacion\bin\Debug\validacion.pdb
+D:\server\Impulsora\recepcion\Version 1.0\dataRecepcion\validacion\bin\Debug\Crypto.dll
+D:\server\Impulsora\recepcion\Version 1.0\dataRecepcion\validacion\bin\Debug\diCrSysPKINet.dll
+D:\server\Impulsora\recepcion\Version 1.0\dataRecepcion\validacion\obj\Debug\ResolveAssemblyReference.cache
+D:\server\Impulsora\recepcion\Version 1.0\dataRecepcion\validacion\obj\Debug\validacion.dll
+D:\server\Impulsora\recepcion\Version 1.0\dataRecepcion\validacion\obj\Debug\validacion.pdb
+D:\server\Impulsora\recepcion\Version 1.0\DataRecepcionWeb\validacion\bin\Debug\validacion.dll
+D:\server\Impulsora\recepcion\Version 1.0\DataRecepcionWeb\validacion\bin\Debug\validacion.pdb
+D:\server\Impulsora\recepcion\Version 1.0\DataRecepcionWeb\validacion\bin\Debug\Crypto.dll
+D:\server\Impulsora\recepcion\Version 1.0\DataRecepcionWeb\validacion\bin\Debug\diCrSysPKINet.dll
+D:\server\Impulsora\recepcion\Version 1.0\DataRecepcionWeb\validacion\obj\Debug\ResolveAssemblyReference.cache
+D:\server\Impulsora\recepcion\Version 1.0\DataRecepcionWeb\validacion\obj\Debug\validacion.dll
+D:\server\Impulsora\recepcion\Version 1.0\DataRecepcionWeb\validacion\obj\Debug\validacion.pdb
+D:\server\validador1.0\validacion\obj\Debug\ResolveAssemblyReference.cache
+D:\server\validador1.0\validacion\obj\Debug\validacion.dll
+D:\server\validador1.0\validacion\bin\Debug\validacion.dll
+D:\server\validador1.0\validacion\bin\Debug\validacion.pdb
+D:\server\validador1.0\validacion\bin\Debug\Crypto.dll
+D:\server\validador1.0\validacion\bin\Debug\Datos.dll
+D:\server\validador1.0\validacion\bin\Debug\diCrSysPKINet.dll
+D:\server\validador1.0\validacion\obj\Debug\validacion.pdb
+E:\dataexpress\Validador\recepcion\validador1.0\validacion\bin\Debug\validacion.dll
+E:\dataexpress\Validador\recepcion\validador1.0\validacion\bin\Debug\validacion.pdb
+E:\dataexpress\Validador\recepcion\validador1.0\validacion\bin\Debug\Crypto.dll
+E:\dataexpress\Validador\recepcion\validador1.0\validacion\bin\Debug\Datos.dll
+E:\dataexpress\Validador\recepcion\validador1.0\validacion\bin\Debug\diCrSysPKINet.dll
+E:\dataexpress\Validador\recepcion\validador1.0\validacion\obj\Debug\ResolveAssemblyReference.cache
+E:\dataexpress\Validador\recepcion\validador1.0\validacion\obj\Debug\validacion.dll
+E:\dataexpress\Validador\recepcion\validador1.0\validacion\obj\Debug\validacion.pdb
+E:\dataexpress\Validador\recepcion\Version 1.0\dataRecepcion\validacion\bin\Debug\validacion.dll
+E:\dataexpress\Validador\recepcion\Version 1.0\dataRecepcion\validacion\bin\Debug\validacion.pdb
+E:\dataexpress\Validador\recepcion\Version 1.0\dataRecepcion\validacion\bin\Debug\Crypto.dll
+E:\dataexpress\Validador\recepcion\Version 1.0\dataRecepcion\validacion\bin\Debug\Datos.dll
+E:\dataexpress\Validador\recepcion\Version 1.0\dataRecepcion\validacion\bin\Debug\diCrSysPKINet.dll
+E:\dataexpress\Validador\recepcion\Version 1.0\dataRecepcion\validacion\bin\Debug\Datos.pdb
+E:\dataexpress\Validador\recepcion\Version 1.0\dataRecepcion\validacion\obj\Debug\ResolveAssemblyReference.cache
+E:\dataexpress\Validador\recepcion\Version 1.0\dataRecepcion\validacion\obj\Debug\validacion.dll
+E:\dataexpress\Validador\recepcion\Version 1.0\dataRecepcion\validacion\obj\Debug\validacion.pdb
+H:\Version 2.0\dataRecepcion\validacion\bin\Debug\validacion.dll
+H:\Version 2.0\dataRecepcion\validacion\bin\Debug\validacion.pdb
+H:\Version 2.0\dataRecepcion\validacion\bin\Debug\Crypto.dll
+H:\Version 2.0\dataRecepcion\validacion\bin\Debug\Datos.dll
+H:\Version 2.0\dataRecepcion\validacion\bin\Debug\diCrSysPKINet.dll
+H:\Version 2.0\dataRecepcion\validacion\bin\Debug\Datos.pdb
+H:\Version 2.0\dataRecepcion\validacion\obj\Debug\ResolveAssemblyReference.cache
+H:\Version 2.0\dataRecepcion\validacion\obj\Debug\validacion.dll
+H:\Version 2.0\dataRecepcion\validacion\obj\Debug\validacion.pdb
+D:\server\Impulsora\recepcion\Version 2.0\dataRecepcion\validacion\bin\Debug\validacion.dll
+D:\server\Impulsora\recepcion\Version 2.0\dataRecepcion\validacion\bin\Debug\validacion.pdb
+D:\server\Impulsora\recepcion\Version 2.0\dataRecepcion\validacion\bin\Debug\Crypto.dll
+D:\server\Impulsora\recepcion\Version 2.0\dataRecepcion\validacion\bin\Debug\Datos.dll
+D:\server\Impulsora\recepcion\Version 2.0\dataRecepcion\validacion\bin\Debug\diCrSysPKINet.dll
+D:\server\Impulsora\recepcion\Version 2.0\dataRecepcion\validacion\bin\Debug\Datos.pdb
+D:\server\Impulsora\recepcion\Version 2.0\dataRecepcion\validacion\obj\Debug\ResolveAssemblyReference.cache
+D:\server\Impulsora\recepcion\Version 2.0\dataRecepcion\validacion\obj\Debug\validacion.dll
+D:\server\Impulsora\recepcion\Version 2.0\dataRecepcion\validacion\obj\Debug\validacion.pdb
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\bin\Debug\validacion.dll
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\bin\Debug\validacion.pdb
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\bin\Debug\Crypto.dll
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\bin\Debug\Datos.dll
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\bin\Debug\diCrSysPKINet.dll
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\bin\Debug\Datos.pdb
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\obj\Debug\ResolveAssemblyReference.cache
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\obj\Debug\validacion.dll
+D:\server\Recepcion Facturacion\Version 2.0\dataRecepcion\validacion\obj\Debug\validacion.pdb

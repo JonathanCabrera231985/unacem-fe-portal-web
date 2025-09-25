@@ -1,0 +1,771 @@
+﻿body {
+}
+
+.ajax__tab_default .ajax__tab_header {height:30px;}
+.ajax__tab_default .ajax__tab_outer {}
+.ajax__tab_default .ajax__tab_inner {}
+.ajax__tab_default .ajax__tab_tab {}
+.ajax__tab_default .ajax__tab_active .ajax__tab_inner {}
+.ajax__tab_default .ajax__tab_hover .ajax__tab_outer {}
+.ajax__tab_default .ajax__tab_hover .ajax__tab_inner {}
+.ajax__tab_default .ajax__tab_hover .ajax__tab_tab {}
+.ajax__tab_default .ajax__tab_active .ajax__tab_outer {}
+.ajax__tab_default .ajax__tab_active .ajax__tab_inner {}
+.ajax__tab_default .ajax__tab_active .ajax__tab_tab {height:35px}
+.ajax__tab_default .ajax__tab_body {}
+
+.tabla
+{
+ width:400;
+ border:0;
+ margin-left:auto;
+ margin-right:auto;
+ border-bottom-color:#999999;
+
+ 
+}
+
+.centrar
+{
+margin-left:auto;
+ margin-right:auto;
+}
+
+.botones
+{
+  height:23px;
+  text-align:center;
+  /*font-family:Arial;
+  font-style:normal;*/
+  top:auto; 
+  font: Verdana, Arial, Helvetica, Geneva, sans-serif; 
+	font-size: 11px;
+     
+}
+
+.tabla12
+{
+ width:400;
+ border:0;
+ margin-left:auto;
+ margin-right:auto;
+ border-bottom-color:#999999;
+ font-family:Arial;
+ font-size:1.1em;
+ 
+ 
+
+}
+
+.tabla2
+{
+ width:550;
+ border:0;
+ margin-left:auto;
+ margin-right:auto;
+ border-bottom-color:#999999;
+ 
+
+}
+.caja
+{
+ height:8px;
+
+}
+
+
+.textoaden{
+	color:#FF0000;
+	font-weight:bold;
+	font-family:Arial;
+	font-size:1.1em;	
+}   
+/* fue modificado*/
+.texgrid{
+	color:Gray;
+	/*font-family:Arial Black;*/
+	font-family:Arial;
+	font-size:0.75em;
+} 
+/* fue modificado*/
+.textoarial{
+	color:Black;
+	font-family:Arial;
+	font-size:1em;
+	/*font-size:1.1em;*/
+	
+}
+
+.textoarial12{
+	color:Black;
+	font-family:Arial;
+	font-size:1.1em;
+text-align:left;
+
+	
+}  
+
+.texgridadentro{
+	color:Gray;
+	font-family:Arial;
+	font-size:0.9px;
+} 
+.texgridtitulo
+{
+    color:Red;
+    font-family:Arial Black;
+    
+    
+ }
+ 
+
+
+.textonegro{
+	color:Black;
+	font-size: 11px;
+	font-weight:bold;
+	font-family:Arial;
+	
+}  
+
+ .texgridtitulo1
+{
+  color:black;
+  font-family:Arial Black;
+  background-image:url('/portalclaro/images/equipos_menu/barra_categorías.png');
+        
+ }
+	
+.listao
+{
+    width: 350px; 
+    height: 16px; 
+    text-align: left;
+	color:Gray;
+	font-size: 11px;
+	font-family:Arial;
+	
+}  
+
+                                           /*INDEX*/
+                                            
+
+/* formato para los links de accesos directos */
+.imagenes_href
+{
+	border-width:0px;
+	border-color:White;
+}
+
+
+
+
+/* texto general*/
+.textogeneral
+{
+	color:black;
+	font-family:Arial;
+	font-size:0.70em;
+} 
+/* texto de los cuadros de carrusel y novedades */
+.textocuadros
+{
+	color:black;
+	font-family:Arial;
+	font-size:0.8em;
+	/*background-color:Silver;*/
+	
+	font-weight:bold;
+
+} 
+
+.textocuadros3
+{
+	color:black;
+	font-family:Arial;
+	font-size:0.7em;
+	/*background-color:Silver;*/
+	
+	font-weight:bold;
+
+}
+.batt
+{
+/*background-image:url('/portalclaro/images/Header/barra_inferior.png'); */
+background-image:url('/portalclaro/images/Header/menu_inf.png'); 
+width:1006px;
+background-repeat:repeat-x;
+background-repeat:repeat-y;
+
+}
+
+                                            /*PANTALLA MENU EQUIPOS */
+                                            
+/*texto de los titulos*/
+.red
+{
+	color:#FF0000;
+	font-weight:bold;
+	font: Arial; 
+	font-size: 0.8em;
+}  
+	
+/* sub menu link a funciones*/
+.submenua
+{
+    
+font-size:medium; 
+font-family:Arial;
+color: #ff0000;
+font-weight:bolder; 
+
+    
+}
+
+/** asp:LinkButton
+{
+color:Black; 
+
+}*/
+
+
+.tit
+{
+    font-size:0.6em;
+    background-image:url('/portalclaro/images/bar_equipos.jpg') ;
+	background-repeat:repeat-x;
+	
+	
+}
+
+a:hover
+{ 
+ /*color:Black; */
+}
+
+* a 
+{
+    color:red;
+    text-decoration: none;
+   
+}
+
+.cem
+{
+    text-decoration:underline;
+    font-family:Times New Roman;
+    font-weight:bold;
+    font-size:x-small;
+    
+    
+}
+
+
+
+
+.links a:hover{
+	color:red;
+	font-weight:bold;
+	font-family:Arial;
+	font-size:0.7em;
+	
+	}  
+.modalPopup
+{
+	background-color:#ffffdd;
+	border-width:3px;
+	border-style:solid;
+	border-color:Gray;
+	padding:3px;
+	width:250px;
+}
+
+/* estilo en texto del iframe links en default2*/
+.textohiperlinks
+{
+	color:Gray;
+	font-family:Arial;
+	font-size:0.8em;
+} 
+
+/* estilo en texto del popup links en vuelo2*/
+.textohiperlinks2
+{
+	color:Gray;
+	font-family:Arial;
+	font-size:0.8em;
+	font-weight:bold
+} 
+                                       /*PANTALLA NOVEDAD */
+                                       
+.texgennov
+{
+	color:Black;
+	font-weight:bold;
+	font-family:Arial;
+	font-size:0.8em;
+	/*text-align:center;*/
+	
+}    
+
+.GridView
+{
+	
+    font: Verdana, Arial, Helvetica, Geneva, sans-serif; 
+    font-weight:bold;
+    color: GrayText; 
+}
+
+
+/*.GridView a{
+    text-decoration:undeline; 
+    color: DimGray;
+                }*/
+
+.GridView a:hover{
+    text-decoration:none;
+    color:Red 
+}
+
+.texfechanov
+{
+	color:#FF0000;
+	font-weight:bold;
+	font: Arial; 
+	font-size: 0.8em;
+	
+}   
+
+
+.text_black_arial_75
+ {
+	font-family:Arial;
+	font-size:0.70em;
+	color:Black;
+	background-image:url('/portalclaro/images/separador.jpg');
+	background-repeat:repeat-x;
+	background-position:bottom;
+	
+}
+
+.text_black_arial_757
+ {
+	font-family:Arial;
+	font-size:0.70em;
+	color:Black;
+	/*background-image:url('/portalclaro/images/separador.jpg');
+	background-repeat:repeat-x;
+	background-position:bottom;*/
+	
+}
+
+.tit
+{
+    font-size:0.8em;
+        
+    
+	
+	background-position:bottom;
+	text-decoration:none;
+		
+	
+}            
+
+.texportimagen
+{
+    
+font-size:small; 
+font-family:Arial;
+color:Red;
+    
+}    
+
+
+/*.body
+{
+padding: 0px;
+font: Arial;
+font-size: 0.7em;
+vertical-align:top;
+}*/
+
+.boxheader{
+            width:250px;
+           /* border-style:;*/
+            border-top:1px solid #666666;
+            border-left:1px solid #666666;
+            border-right:1px solid #666666;
+            background-color:#f2f2f2;
+            color:red;  padding:3px;
+            font-size:0.7em;
+            font-weight:bold;
+            font-family:Arial;
+            }
+         
+     .boxbody{
+            font-size:0.7em;
+            width:250px;
+            background:#FFFFFF;
+            border-left:1px solid #666666;
+            border-right:1px solid #666666;
+            border-bottom:1px solid #666666;
+            padding-left:3px;
+            padding-right:3px;
+            padding-bottom:3px;
+            font-family:Arial;
+            }         
+
+.submenua
+{
+    
+font-size:medium; 
+font-family:Arial;
+color: #ff0000;
+font-weight:bolder; 
+
+    
+}
+
+
+.overflowHidden {overflow:hidden;}
+
+.overflowScroll {overflow:hidden;}
+
+/*html
+{ 
+   
+	scrollbar-3dlight-color : Gray;
+	scrollbar-arrow-color : Gray;
+	scrollbar-base-color : red;
+	scrollbar-darkshadow-color : Gray;
+	scrollbar-face-color:white;
+	scrollbar-highlight-color : #CCCCCC;
+	scrollbar-shadow-color : #CCCCCC;
+	scrollbar-track-color :#F8F8F8;
+}*/
+
+
+.text_Gray_Arial_9{
+	color:#666666;
+	font-weight:bold;
+	font-family:Arial;
+	font-size:0.9em;	
+} 
+
+
+
+.text_Gray_Arial_7{
+	color:#666666;
+	font-weight:bold;
+	font-family:Arial;
+	font-size:0.7em;	
+} 
+.text_silver_arial_9{
+	color:#666666;
+	font-family:Arial;
+	font-size:0.9em;	
+}
+
+.text_silver_arial_91{
+	color:#666666;
+	font-weight:bold;
+	font-family:Arial;
+	font-size:0.9em;	
+}
+
+.text_silver_arial_7{
+	color:#666666;
+	font-family:Arial;
+	font-size:0.7em;	
+}
+
+.text_black_arial_7
+ {
+	font-family:Arial;
+	font-size:0.7em;
+	
+	
+} 
+
+
+
+.text_verde_arial_7
+ {
+	font-family:Arial;
+	font-size:0.55em;
+	color:#006699;
+		
+} 
+
+.text_black_arial_9
+ {
+	font-family:Arial;
+	font-size:1.0em;
+	text-decoration:none;
+	color:Black;
+} 
+
+.titulo_pagina
+{
+    font-family:Arial;
+	font-size:1em;
+	text-decoration:none;
+	color:Red;
+	font-weight:bold;
+	
+}
+
+.text_black_arial_8
+ {
+	font-family:Arial;
+	font-size:0.8em;
+	text-decoration:none;
+	color:Black;
+} 
+
+.cajabuscador 
+{
+	font-family:  Arial;
+	text-align:left;
+ 	color:Gray;
+	border: 1px solid #CCCCCC;
+	vertical-align:top;
+	height:17px;
+		
+}
+
+.cajabuscador1 
+{
+	font-family:  Arial;
+	text-align:left;
+ 	color:Gray;
+	border: 1px solid #CCCCCC;
+	vertical-align:bottom;
+	height:17px;
+		
+}
+.cajafechas 
+{
+	font-family:  Arial;
+	text-align:left;
+ 	color:Gray;
+	width:65px;
+    border: 1px solid #CCCCCC;
+	vertical-align:top;
+		
+}
+
+
+.cajanormalnumero
+{
+	font-family:  Arial;
+	text-align:right;
+ 	color:Black;
+	width:65px;
+	height:65px;
+    border: 1px solid #CCCCCC;
+	vertical-align:middle;
+		
+}
+
+
+.pie
+{
+	font-size:10px;
+	color:Black; 
+	font-weight: bolder ;
+	text-decoration:none;
+}
+
+.acc_personalizados
+{
+  background-image:url('/portalclaro/images/header/caja_10.jpg');
+ /* background-repeat:repeat-y;
+  background-repeat:repeat-x;*/
+  text-decoration:none;
+    
+}
+
+.ims
+{
+  background-image:url('/portalclaro/images/header/back_equipos.png');
+  background-repeat:repeat-y;
+  text-decoration:none;
+}
+
+.textohiperlinks2
+{
+	color:Black;
+	font-family:Arial;
+	font-size:0.8em;
+	text-decoration:none;
+	text-align:right;
+	
+	
+}
+
+.novedad
+{
+ 
+ background-image:url('/portalclaro/images/header/back_novedad2.jpg');
+ background-repeat:repeat-y;
+ Height:327px; 
+}
+
+
+
+.novedad2
+{
+ 
+ background-image:url('/portalclaro/images/header/back_novedad1.jpg');
+    
+}
+
+
+.conoceequipos
+{
+ 
+background-image:url('/portalclaro/images/header/back_conoce_eq.png');
+background-repeat:repeat-y;
+margin:0px 0px 0px 0px;
+   
+
+}
+
+
+.sesion{
+	color:black;
+	font-weight:bolder;
+	font-family:Arial;
+	font-size:1em; 
+} 
+
+* a 
+{
+    /*color:Black;*/
+    text-decoration: none;
+   
+}
+
+.tbl_sesion
+{
+    color:black;
+	font-weight:bold;
+	font-family:Arial;
+	font-size:0.60em; 
+}
+
+    a.Ntooltip {
+/*position: absolute; /* es la posición normal */
+text-decoration: none !important; /* forzar sin subrayado */
+color:#0080C0 !important; /* forzar color del texto */
+/*font-weight:bold !important; /* forzar negritas */
+
+}
+
+a.Ntooltip:hover {
+z-index:999; /* va a estar por encima de todo */
+/*background-color:#000000; /* DEBE haber un color de fondo */
+}
+
+a.Ntooltip span {
+display: none; /* el elemento va a estar oculto */
+}
+
+a.Ntooltip:hover span {
+display: block; /* se fuerza a mostrar el bloque */
+position: static; /* se fuerza a que se ubique en un lugar de la pantalla */
+top:2em; left:-15em; /* donde va a estar */
+width:200px; /* el ancho por defecto que va a tener */
+/*height:650px;
+padding:1px; /* la separación entre el contenido y los bordes */
+/*background-color: #0080C0; /* el color de fondo por defecto */
+color: Black; /* el color de los textos por defecto */
+border:1px solid silver;
+/*border-top:1px solid #666666;*/
+}
+
+
+.ernest
+{
+   background-image:url(/portalclaro/images/deg_01.png);
+   background-position:bottom; 
+   background-repeat:repeat-x
+    
+}
+#cabecera
+{
+background:url(/portalclaro/images/header/001_1_recortado.jpg) top left no-repeat;    
+ /*background:url("data:images/header/001_1_recortado.jpg;base64");*/
+ 
+ margin:0px;
+ padding:0px;
+ width:1003px;
+ height:100px;
+ /*border:solid 1px red;*/
+}
+
+#cabecera h1
+{
+ margin:55px 0px 0px 0px;
+ font-family:Arial;
+ font-size:0.7em;
+ color:Red;
+ text-align:center;
+ /*border:solid 1px red;*/
+}
+
+/* CAJAS DE TEXTO */
+
+/* Gradient 1 */
+.txt_gr1 {
+	background-image:url(imagenes/form_bg.jpg);
+	background-repeat:repeat-x;
+	border:1px solid #d1c7ac;
+	width: 230px;
+	color:#333333;
+	padding:3px;
+	margin-right:4px;
+	margin-bottom:8px;
+	font-family:tahoma, arial, sans-serif;
+}
+
+/* Gradient 2 */
+.txt_gr2 {
+	border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    background: url('imagenes/bg.jpg') no-repeat;
+    color : #747862;
+	padding:4px 8px;
+	margin-bottom:0px;
+}
+
+;
+}
+
+url(imagenes/buttonround.gif) no-repeat;
+	border: none;
+	outline: none;
+}
+.fb8:hover {
+	background: transparent url(imagenes/buttonhover.gif) no-repeat;
+	border: none;
+	outline: none;
+}
+
+/* Areas de Texto */
+/* Gradient 1 */
+.ta10 {
+	background-image:url(imagenes/form_bg.jpg);
+	background-repeat:repeat-x;
+	border:1px solid #d1c7ac;
+	width: 230px;
+	height: 60px;
+	color:#333333;
+	padding:3px;
+	margin-right:4px;
+	margin-bottom:8px;
+	/*font-family:tahoma, arial, sans-serif;*/
+
+}
